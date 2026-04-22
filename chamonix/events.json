@@ -1,80 +1,44 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T18:28:26+00:00",
+    "generated_at": "2026-04-22T13:18:45+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 27,
+    "count": 42,
     "schema_version": "1.0.0",
     "export_filter": null
   },
   "events": [
     {
-      "slug": "2026-04-21-blood-donation-chamonix",
-      "title": "Blood Donation",
-      "description": "Un geste généreux, un geste indispensable, un geste responsable. Venez nombreux, votre don sauve des vies ! Munissez-vous de votre pièce d’identité et d’un stylo pour remplir votre questionnaire. Pensez également à vous hydrater tout au long de la journée. Collation en fin de don.",
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-21",
-      "start_time": "16:00",
-      "end_time": "19:00",
-      "location": "Salle du Kandahar, Les Houches",
+      "slug": "2026-04-22-chamonix-trail-running-challenge-chamonix",
+      "title": "Chamonix Trail Running Challenge",
+      "description": "A challenging trail running event through the stunning landscapes of Chamonix.",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "start_time": "08:00",
+      "end_time": "15:00",
+      "location": "Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "community",
+      "event_type": "sport",
       "languages": [
         "en"
       ],
-      "pricing": "free",
-      "ticket_price": null,
+      "pricing": "paid",
+      "ticket_price": "€30",
       "requires_registration": true,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://dondesang.efs.sante.fr/trouver-une-collecte",
+      "official_source_url": "https://www.seechamonix.com/events/",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "blood",
-        "community",
-        "donation",
-        "houches",
-        "kandahar",
-        "les",
-        "salle"
-      ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
-    },
-    {
-      "slug": "2026-04-21-bamba-presents-mauvais-coton-chamonix",
-      "title": "Bamba presents Mauvais coton",
-      "description": "An evening show where laughter is a victory over gloom.",
-      "start_date": "2026-04-21",
-      "end_date": "2026-04-21",
-      "start_time": "19:00",
-      "end_time": "22:00",
-      "location": "Maison des Artistes, Chamonix",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "free",
-      "ticket_price": null,
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/spectacle-bamba-presente-mauvais-coton",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "artistes",
-        "bamba",
+        "challenge",
         "chamonix",
-        "coton",
-        "cultural",
-        "des",
-        "maison",
-        "mauvais",
-        "presents"
+        "chamonix-mont-blanc",
+        "running",
+        "sport",
+        "trail"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-22-creative-workshop-decorating-plant-pots-chamonix",
@@ -108,7 +72,38 @@
         "workshop",
         "workshop:"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-22-planetarium-chamonix",
+      "title": "Planetarium",
+      "description": "Join Eric Courcier for a journey to the solar system.",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "start_time": "16:30",
+      "end_time": "19:30",
+      "location": "Salle communale, Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "communale",
+        "cultural",
+        "planetarium",
+        "salle"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-22-planetarium-experience-chamonix",
@@ -140,20 +135,59 @@
         "planetarium",
         "salle"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-22-after-ski-yoga-deep-release-and-recovery-chamonix",
+      "title": "After Ski Yoga Deep Release and Recovery",
+      "description": "Yoga session focused on deep release and recovery after skiing.",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "location": "Chamonix-Mont-Blanc · 191 Rue Charlet Straton",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€13.98",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.eventbrite.com/d/france--chamonix/all-events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "191",
+        "after",
+        "and",
+        "chamonix-mont-blanc",
+        "charlet",
+        "deep",
+        "outdoor",
+        "recovery",
+        "release",
+        "rue",
+        "ski",
+        "straton",
+        "yoga"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-23-guided-tour-with-a-crystal-hunter-chamonix",
       "title": "Guided Tour with a Crystal Hunter",
-      "description": "A guided tour exploring crystals.",
+      "description": "A guided tour to learn about crystals.",
       "start_date": "2026-04-23",
       "end_date": "2026-04-23",
       "start_time": "14:15",
-      "end_time": "16:15",
+      "end_time": null,
       "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
+      "event_type": "tour",
       "languages": [
         "en"
       ],
@@ -162,13 +196,12 @@
       "requires_registration": true,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/guided-tour-with-a-crystal-maker-2",
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix",
         "cristaux",
         "crystal",
-        "cultural",
         "des",
         "espace",
         "guided",
@@ -178,7 +211,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-24-emc2-theatre-cultural-season-chamonix",
@@ -212,7 +245,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-26-flea-market-chamonix",
@@ -245,17 +278,120 @@
         "park",
         "tourchet"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
+      "title": "Nature outing - Gourmet forest",
+      "description": "Gourmet forest nature outing. Adult: 8 €, Child (18 years): 4 €.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "Adult: 8 €, Child (18 years): 4 €",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "forest",
+        "gourmet",
+        "nature",
+        "outdoor",
+        "outing"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-29-chamonix-trail-running-series-chamonix",
+      "title": "Chamonix Trail Running Series",
+      "description": "Participate in the first race of the Chamonix Trail Running Series, featuring stunning alpine views.",
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "start_time": "08:00",
+      "end_time": "12:00",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€30",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "chamonix-mont-blanc",
+        "running",
+        "series",
+        "sport",
+        "trail"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-29-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Local produce sold at this weekly market - fresh food direct from farm to table",
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
       "title": "Concert Piano: John Nilsen",
-      "description": "2024 Oregon Music Hall of Fame inductee and Yamaha piano artist John Nilsen performs a solo piano recital featuring his compositions blending jazz, classical, rock, and folk. A collection will be taken during the concert.",
+      "description": "2024 Oregon Music Hall of Fame inductee and Yamaha Piano Artist, John Nilsen, performs a solo piano show featuring his jazz, classical, rock and folk woven piano pieces. An offering will be taken at the concert.",
       "start_date": "2026-04-29",
       "end_date": "2026-04-29",
       "start_time": "18:00",
       "end_time": "19:30",
-      "location": "Temple Protestant, 24 passage du Temple, Chamonix-Mont-Blanc",
+      "location": "Temple Protestant, Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "music",
@@ -267,33 +403,62 @@
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.com/animations-et-evenements-chamonix-et-argentiere/john-nilsen-piano-concert",
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix-mont-blanc",
+        "chamonix",
         "concert",
         "john",
         "music",
         "nilsen",
-        "passage",
         "piano:",
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-04-30-mountain-opening-festival-chamonix",
+      "title": "Mountain Opening Festival",
+      "description": "Celebrate the opening of the mountain season with activities, food, and entertainment.",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "start_time": "10:00",
+      "end_time": "18:00",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "festival",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "festival",
+        "mountain",
+        "opening"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
       "title": "Guided Tour with a Crystal Hunter",
-      "description": "A guided tour exploring crystals.",
+      "description": "A guided tour to learn about crystals.",
       "start_date": "2026-04-30",
       "end_date": "2026-04-30",
       "start_time": "14:15",
-      "end_time": "16:15",
+      "end_time": null,
       "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
+      "event_type": "tour",
       "languages": [
         "en"
       ],
@@ -302,13 +467,12 @@
       "requires_registration": true,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/guided-tour-with-a-crystal-maker-2",
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix",
         "cristaux",
         "crystal",
-        "cultural",
         "des",
         "espace",
         "guided",
@@ -318,7 +482,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -350,7 +514,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-05-03-festival-unes-chamonix",
@@ -379,7 +543,7 @@
         "festival",
         "unes"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -413,7 +577,236 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Weekly farmers' market every Wednesday at The Chibon Bread Farm featuring local produce including bread milled on-site, goat and cow cheeses, reblochons, farm tomatoes, charcuterie, meat from farm pigs, and local jam.",
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/event-farmers-market-753453",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-09-travel-photography-exhibition-la-rondine-chamonix",
+      "title": "Travel Photography Exhibition - La Rondine",
+      "description": "Discover the world of travel through the images and stories of Giorgia Tirocchi. Admission is free and open to all photography and travel enthusiasts.",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "start_time": "10:30",
+      "end_time": "21:00",
+      "location": "Alpina Eclectic Hôtel & Spa, 79 avenue du Mont Blanc, 74400 Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "exhibition",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/exposition-photographique-de-voyage-la-rondine",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "alpina",
+        "avenue",
+        "blanc",
+        "chamonix-mont-blanc",
+        "eclectic",
+        "exhibition",
+        "hôtel",
+        "mont",
+        "photography",
+        "rondine",
+        "spa",
+        "travel"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-13-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Local produce sold at this weekly market - fresh food direct from farm to table. Come and discover all our local products, directly from the producer to the consumer. A real treat! Opportunity to visit farm animals and discover the process from wheat to bread.",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
+      "title": "Nature outing - A journey through the forest",
+      "description": "Guided half-day forest walk exploring tree species, stories, and legends; participants create a travel log with drawings and notes. Minimum age 7 years. Max group 15. Booking compulsory by SMS to 0763786284.",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-20",
+      "start_time": "13:00",
+      "end_time": "16:30",
+      "location": "Désert blanc 74400 Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": "Free",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-a-journey-through-the-forest",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "blanc",
+        "chamonix-mont-blanc",
+        "désert",
+        "forest",
+        "journey",
+        "nature",
+        "outdoor",
+        "outing",
+        "the",
+        "through"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-20-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Local produce sold at this weekly market - fresh food direct from farm to table",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-20",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "chamonix",
+        "croz",
+        "cultural",
+        "emc2",
+        "espace",
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-05-23-european-night-of-the-museums-chamonix",
@@ -458,7 +851,7 @@
         "tairraz",
         "the"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -488,7 +881,118 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "chamonix",
+        "croz",
+        "cultural",
+        "emc2",
+        "espace",
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-05-27-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Local produce sold at this weekly market - fresh food direct from farm to table",
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-06-03-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Come and discover local products directly from the producer: goat cheese, cow cheese, reblochons, farm tommes, charcuterie, meat, jams, and Bread of Chibon. Visit the animals and see the mill in action.",
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-03",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "La ferme du Pain de Chibon, 427 route du pont, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/planifier-mon-sejour/infos-et-services/marches/farmers-market",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "chibon",
+        "farmer's",
+        "ferme",
+        "houches",
+        "les",
+        "market",
+        "pain",
+        "pont",
+        "route"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -524,7 +1028,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -557,7 +1061,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -587,7 +1091,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -617,7 +1121,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-26-running-up-for-air-chamonix",
@@ -648,7 +1152,7 @@
         "outdoor",
         "running"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-06-28-running-up-for-air-chamonix",
@@ -679,7 +1183,7 @@
         "running",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-07-01-argentrail-chamonix",
@@ -708,7 +1212,7 @@
         "chamonix",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-07-03-limitless-days-mont-blanc-chamonix",
@@ -741,7 +1245,7 @@
         "mont-blanc",
         "outdoor"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -774,7 +1278,7 @@
         "place",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
@@ -804,7 +1308,38 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
+    },
+    {
+      "slug": "2026-07-20-climbing-world-cup-chamonix",
+      "title": "Climbing World Cup",
+      "description": "International climbing world cup competition.",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-25",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.com/evenements",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "climbing",
+        "cup",
+        "sport",
+        "world"
+      ],
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -837,7 +1372,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-08-24-utmb-chamonix",
@@ -866,7 +1401,7 @@
         "sport",
         "utmb®"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     },
     {
       "slug": "2026-09-01-trail-des-aiguilles-rouges-chamonix",
@@ -898,7 +1433,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-20T18:28:26+00:00"
+      "updated_at": "2026-04-22T13:18:45+00:00"
     }
   ]
 }
