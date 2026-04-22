@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T13:18:45+00:00",
+    "generated_at": "2026-04-22T13:43:20+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 42,
@@ -38,7 +38,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-22-creative-workshop-decorating-plant-pots-chamonix",
@@ -72,7 +72,7 @@
         "workshop",
         "workshop:"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-22-planetarium-chamonix",
@@ -103,7 +103,7 @@
         "planetarium",
         "salle"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-22-planetarium-experience-chamonix",
@@ -135,7 +135,7 @@
         "planetarium",
         "salle"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-22-after-ski-yoga-deep-release-and-recovery-chamonix",
@@ -174,7 +174,7 @@
         "straton",
         "yoga"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-23-guided-tour-with-a-crystal-hunter-chamonix",
@@ -211,7 +211,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-24-emc2-theatre-cultural-season-chamonix",
@@ -245,7 +245,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-26-flea-market-chamonix",
@@ -278,7 +278,7 @@
         "park",
         "tourchet"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -310,7 +310,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-29-chamonix-trail-running-series-chamonix",
@@ -342,7 +342,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-29-farmer-s-market-les-houches-chamonix",
@@ -381,7 +381,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
@@ -415,7 +415,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-30-mountain-opening-festival-chamonix",
@@ -445,7 +445,7 @@
         "mountain",
         "opening"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -482,7 +482,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -514,7 +514,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-03-festival-unes-chamonix",
@@ -543,7 +543,7 @@
         "festival",
         "unes"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -577,7 +577,7 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
@@ -616,7 +616,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-09-travel-photography-exhibition-la-rondine-chamonix",
@@ -655,7 +655,7 @@
         "spa",
         "travel"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-13-farmer-s-market-les-houches-chamonix",
@@ -694,7 +694,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
@@ -731,7 +731,7 @@
         "the",
         "through"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-20-farmer-s-market-les-houches-chamonix",
@@ -770,7 +770,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -806,7 +806,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-23-european-night-of-the-museums-chamonix",
@@ -851,7 +851,7 @@
         "tairraz",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -881,7 +881,7 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
@@ -917,7 +917,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-05-27-farmer-s-market-les-houches-chamonix",
@@ -956,7 +956,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-03-farmer-s-market-les-houches-chamonix",
@@ -992,7 +992,7 @@
         "pont",
         "route"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -1028,7 +1028,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -1061,7 +1061,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -1091,7 +1091,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -1121,7 +1121,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-26-running-up-for-air-chamonix",
@@ -1152,7 +1152,7 @@
         "outdoor",
         "running"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-06-28-running-up-for-air-chamonix",
@@ -1183,7 +1183,7 @@
         "running",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-01-argentrail-chamonix",
@@ -1212,7 +1212,7 @@
         "chamonix",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-03-limitless-days-mont-blanc-chamonix",
@@ -1245,7 +1245,7 @@
         "mont-blanc",
         "outdoor"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -1278,7 +1278,7 @@
         "place",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
@@ -1308,7 +1308,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-20-climbing-world-cup-chamonix",
@@ -1339,7 +1339,7 @@
         "sport",
         "world"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -1372,7 +1372,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-08-24-utmb-chamonix",
@@ -1401,7 +1401,7 @@
         "sport",
         "utmb®"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     },
     {
       "slug": "2026-09-01-trail-des-aiguilles-rouges-chamonix",
@@ -1433,7 +1433,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-22T13:18:45+00:00"
+      "updated_at": "2026-04-22T13:43:20+00:00"
     }
   ]
 }
