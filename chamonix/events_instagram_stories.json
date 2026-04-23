@@ -1,111 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T13:43:21+00:00",
+    "generated_at": "2026-04-23T05:20:39+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 13,
+    "count": 11,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
   "events": [
-    {
-      "slug": "2026-04-22-chamonix-trail-running-challenge-chamonix",
-      "title": "Chamonix Trail Running Challenge",
-      "description": "A challenging trail running event through the stunning landscapes of Chamonix.",
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "start_time": "08:00",
-      "end_time": "15:00",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "en"
-      ],
-      "pricing": "paid",
-      "ticket_price": "€30",
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "challenge",
-        "chamonix",
-        "chamonix-mont-blanc",
-        "running",
-        "sport",
-        "trail"
-      ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
-    },
-    {
-      "slug": "2026-04-22-creative-workshop-decorating-plant-pots-chamonix",
-      "title": "Creative Workshop: Decorating Plant Pots",
-      "description": "A creative workshop for ages 7 and over to decorate plant pots.",
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "start_time": "14:00",
-      "end_time": "15:30",
-      "location": "Médiathèque de Servoz",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "workshop",
-      "languages": [
-        "en"
-      ],
-      "pricing": "free",
-      "ticket_price": null,
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "creative",
-        "decorating",
-        "médiathèque",
-        "plant",
-        "pots",
-        "servoz",
-        "workshop",
-        "workshop:"
-      ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
-    },
-    {
-      "slug": "2026-04-22-planetarium-experience-chamonix",
-      "title": "Planetarium Experience",
-      "description": "A journey through the solar system in the planetarium, suitable for ages 5 and over.",
-      "start_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "start_time": "16:30",
-      "end_time": "19:30",
-      "location": "Salle communale, Argentière",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "family",
-      "languages": [
-        "en"
-      ],
-      "pricing": "free",
-      "ticket_price": null,
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/planetarium-2",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "argentière",
-        "communale",
-        "experience",
-        "family",
-        "planetarium",
-        "salle"
-      ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
-    },
     {
       "slug": "2026-04-23-guided-tour-with-a-crystal-hunter-chamonix",
       "title": "Guided Tour with a Crystal Hunter",
@@ -141,7 +43,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-24-emc2-theatre-cultural-season-chamonix",
@@ -175,7 +77,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -207,7 +109,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-29-chamonix-trail-running-series-chamonix",
@@ -239,7 +141,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-29-farmer-s-market-les-houches-chamonix",
@@ -278,7 +180,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
@@ -312,7 +214,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -349,7 +251,39 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
+    },
+    {
+      "slug": "2026-05-01-open-mic-in-servoz-chamonix",
+      "title": "Open Mic in Servoz",
+      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks.",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "start_time": "18:30",
+      "end_time": "22:30",
+      "location": "Maison du Lieutenant, Servoz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "cultural",
+        "lieutenant",
+        "maison",
+        "mic",
+        "open",
+        "servoz"
+      ],
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -383,7 +317,7 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -419,7 +353,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -452,7 +386,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-22T13:43:21+00:00"
+      "updated_at": "2026-04-23T05:20:39+00:00"
     }
   ]
 }
