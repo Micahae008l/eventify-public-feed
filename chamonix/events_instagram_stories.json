@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "generated_at": "2026-04-24T11:36:47+00:00",
+    "city_slug": "chamonix",
+    "city_display_name": "Chamonix-Mont-Blanc, France",
+    "count": 3,
+    "schema_version": "1.0.0",
+    "export_filter": "instagram_story"
+  },
+  "events": [
+    {
+      "slug": "2026-05-01-open-mic-in-servoz-chamonix",
+      "title": "Open Mic in Servoz",
+      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks!",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "start_time": "18:30",
+      "end_time": "22:30",
+      "location": "Maison du Lieutenant, 2231 route du Mont, Servoz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/news/last-opening-days-brevent-ski-resort-2026",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "2231",
+        "cultural",
+        "lieutenant",
+        "maison",
+        "mic",
+        "mont",
+        "open",
+        "route",
+        "servoz"
+      ],
+      "updated_at": "2026-04-24T11:36:47+00:00"
+    },
+    {
+      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "chamonix",
+        "croz",
+        "cultural",
+        "emc2",
+        "espace",
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
+      ],
+      "updated_at": "2026-04-24T11:36:47+00:00"
+    },
+    {
+      "slug": "2026-07-20-cosmojazz-festival-chamonix",
+      "title": "CosmoJazz Festival 2026",
+      "description": "The 16th edition of the CosmoJazz Festival will take place from July 20 to 25, 2026, in the Chamonix-Mont-Blanc valley. Six days of free concerts at altitude and in town, with a program blending jazz, world music, and artistic discoveries in the valley's exceptional natural sites.",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-25",
+      "start_time": "00:00",
+      "end_time": null,
+      "location": "Parc Couttet et scènes d'altitude",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "0 EUR",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.festivalenfrance.com/festival/cosmojazz-festival",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "2026",
+        "cosmojazz",
+        "couttet",
+        "cultural",
+        "d'altitude",
+        "festival",
+        "parc",
+        "scènes"
+      ],
+      "updated_at": "2026-04-24T11:36:47+00:00"
+    }
+  ]
+}
