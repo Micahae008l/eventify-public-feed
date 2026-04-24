@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T07:35:16+00:00",
+    "generated_at": "2026-04-24T09:42:54+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 11,
@@ -40,7 +40,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -72,7 +72,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-04-29-chamonix-trail-running-series-chamonix",
@@ -104,7 +104,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-04-29-farmer-s-market-les-houches-chamonix",
@@ -143,7 +143,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
@@ -177,7 +177,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -214,7 +214,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -246,7 +246,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -280,7 +280,7 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
@@ -319,7 +319,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -355,7 +355,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -388,7 +388,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-24T07:35:16+00:00"
+      "updated_at": "2026-04-24T09:42:54+00:00"
     }
   ]
 }
