@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T10:33:17+00:00",
+    "generated_at": "2026-04-24T10:38:46+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 12,
+    "count": 13,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -40,7 +40,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-24-spring-hiking-festival-chamonix",
@@ -70,7 +70,40 @@
         "hiking",
         "spring"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
+    },
+    {
+      "slug": "2026-04-26-stage-bollywood-sallanches-chamonix",
+      "title": "STAGE BOLLYWOOD SALLANCHES",
+      "description": "A Bollywood dance workshop.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "location": "Alp'Show Dance, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": "10€ enfants | 15€ adultes",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://allevents.in/chamonix/stage-bollywood-sallanches/200029939700720?ref=faq",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "alp'show",
+        "bollywood",
+        "chamonix",
+        "dance",
+        "sallanches",
+        "stage",
+        "workshop"
+      ],
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -102,7 +135,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-29-chamonix-trail-running-series-chamonix",
@@ -134,7 +167,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-29-farmer-s-market-les-houches-chamonix",
@@ -173,7 +206,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
@@ -207,7 +240,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -244,7 +277,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -276,7 +309,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -310,7 +343,7 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
@@ -349,7 +382,7 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -385,7 +418,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -418,7 +451,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-24T10:33:17+00:00"
+      "updated_at": "2026-04-24T10:38:46+00:00"
     }
   ]
 }
