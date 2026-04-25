@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T13:32:39+00:00",
+    "generated_at": "2026-04-25T05:42:00+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 3,
+    "count": 4,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -41,7 +41,47 @@
         "route",
         "servoz"
       ],
-      "updated_at": "2026-04-24T13:32:39+00:00"
+      "updated_at": "2026-04-25T05:42:00+00:00"
+    },
+    {
+      "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
+      "title": "Freeride day at Les Grands Montets",
+      "description": "End of ski season party with waterslide challenge, zipline, DJ sets, costume contest, and other animations at Grands Montets.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": "08:30",
+      "end_time": "17:00",
+      "location": "Domaine skiable des Grands-Montets, Chemin de la Glacière, 74400 Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "paid",
+      "ticket_price": "10 €",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.com/agenda/evenements-et-manifestations/freeride-day",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "argentière",
+        "chemin",
+        "day",
+        "des",
+        "domaine",
+        "freeride",
+        "glacière",
+        "grands",
+        "grands-montets",
+        "les",
+        "montets",
+        "outdoor",
+        "skiable"
+      ],
+      "updated_at": "2026-04-25T05:42:00+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -77,7 +117,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-24T13:32:39+00:00"
+      "updated_at": "2026-04-25T05:42:00+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -111,7 +151,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-24T13:32:39+00:00"
+      "updated_at": "2026-04-25T05:42:00+00:00"
     }
   ]
 }
