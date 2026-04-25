@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T15:28:31+00:00",
+    "generated_at": "2026-04-25T17:40:03+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 4,
+    "count": 3,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -11,7 +11,7 @@
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
       "title": "Nature outing - Gourmet forest",
-      "description": "Workshop to discover forests and ancient potions using all 5 senses. Minimum age 7 years old.",
+      "description": "Workshop to discover forest potions and engage all five senses. For ages 7+.",
       "start_date": "2026-04-28",
       "end_date": "2026-04-28",
       "start_time": "14:00",
@@ -19,13 +19,13 @@
       "location": "Site d'escalade des Gaillands, 74400 Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "outdoor",
+      "event_type": "workshop",
       "languages": [
         "en"
       ],
       "pricing": "paid",
-      "ticket_price": "Adult: 8 €, Child (18 years): 4 €",
-      "requires_registration": true,
+      "ticket_price": "€8 (adult), €4 (child under 18)",
+      "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
       "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
@@ -39,11 +39,11 @@
         "gaillands",
         "gourmet",
         "nature",
-        "outdoor",
         "outing",
-        "site"
+        "site",
+        "workshop"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -53,7 +53,7 @@
       "end_date": "2026-05-01",
       "start_time": "18:30",
       "end_time": "22:30",
-      "location": "Maison du Lieutenant, 2231 route du Mont, Servoz",
+      "location": "Maison du Lieutenant, Servoz",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -68,58 +68,19 @@
       "official_source_url": "https://www.chamonix.net/index.php/english/news/last-opening-days-brevent-ski-resort-2026",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2231",
         "cultural",
         "lieutenant",
         "maison",
         "mic",
-        "mont",
         "open",
-        "route",
         "servoz"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
-      "title": "EMC2 Theatre cultural season",
-      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "74400",
-        "chamonix",
-        "croz",
-        "cultural",
-        "emc2",
-        "espace",
-        "haute-savoie",
-        "michel",
-        "season",
-        "theatre"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
       "title": "Cosmojazz Festival",
-      "description": "Jazz festival with altitude concerts, concerts in Chamonix centre at Parc Couttet, and Cosmo Jam sessions, all free except for necessary mountain lifts.",
+      "description": "Jazz festival featuring altitude concerts during the day, musical walks, and evening concerts in Chamonix centre (6-10pm) plus late-night Cosmo Jam sessions (from 10pm). All concerts free of charge.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
@@ -135,8 +96,8 @@
       "ticket_price": null,
       "requires_registration": false,
       "is_recurring": false,
-      "recurrence_pattern": "annual",
-      "official_source_url": "https://cosmojazzfestival.com",
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "74400",
@@ -147,7 +108,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     }
   ]
 }

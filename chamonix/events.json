@@ -1,47 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T15:28:31+00:00",
+    "generated_at": "2026-04-25T17:40:03+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 17,
+    "count": 9,
     "schema_version": "1.0.0",
     "export_filter": null
   },
   "events": [
     {
-      "slug": "2026-04-25-spring-hiking-festival-chamonix",
-      "title": "Spring Hiking Festival",
-      "description": "Join us for a day of guided hikes celebrating the arrival of spring.",
-      "start_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "start_time": "09:00",
-      "end_time": "17:00",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "festival",
-      "languages": [
-        "en"
-      ],
-      "pricing": "free",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "festival",
-        "hiking",
-        "spring"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
       "title": "Nature outing - Gourmet forest",
-      "description": "Workshop to discover forests and ancient potions using all 5 senses. Minimum age 7 years old.",
+      "description": "Workshop to discover forest potions and engage all five senses. For ages 7+.",
       "start_date": "2026-04-28",
       "end_date": "2026-04-28",
       "start_time": "14:00",
@@ -49,13 +19,13 @@
       "location": "Site d'escalade des Gaillands, 74400 Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "outdoor",
+      "event_type": "workshop",
       "languages": [
         "en"
       ],
       "pricing": "paid",
-      "ticket_price": "Adult: 8 €, Child (18 years): 4 €",
-      "requires_registration": true,
+      "ticket_price": "€8 (adult), €4 (child under 18)",
+      "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
       "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
@@ -69,43 +39,11 @@
         "gaillands",
         "gourmet",
         "nature",
-        "outdoor",
         "outing",
-        "site"
+        "site",
+        "workshop"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-04-30-chamonix-trail-running-challenge-chamonix",
-      "title": "Chamonix Trail Running Challenge",
-      "description": "A challenging trail running event through the stunning landscapes of Chamonix.",
-      "start_date": "2026-04-30",
-      "end_date": "2026-04-30",
-      "start_time": "08:00",
-      "end_time": "16:00",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "en"
-      ],
-      "pricing": "paid",
-      "ticket_price": "€30",
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "challenge",
-        "chamonix",
-        "chamonix-mont-blanc",
-        "running",
-        "sport",
-        "trail"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -115,7 +53,7 @@
       "end_date": "2026-05-01",
       "start_time": "18:30",
       "end_time": "22:30",
-      "location": "Maison du Lieutenant, 2231 route du Mont, Servoz",
+      "location": "Maison du Lieutenant, Servoz",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -130,57 +68,19 @@
       "official_source_url": "https://www.chamonix.net/index.php/english/news/last-opening-days-brevent-ski-resort-2026",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2231",
         "cultural",
         "lieutenant",
         "maison",
         "mic",
-        "mont",
         "open",
-        "route",
         "servoz"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-05-03-le-freeride-day-chamonix",
-      "title": "Le Freeride Day",
-      "description": "End-of-season ski celebration featuring water slide pool, zipline, climbing walls, laser tag, face painting, DJ sets, costume contest with Manga theme, food and drinks, and skiing. This day is included in valid season, annual, and stay passes.",
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "start_time": "08:30",
-      "end_time": "17:00",
-      "location": "Domaine skiable des Grands-Montets, Argentière, Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "paid",
-      "ticket_price": "10 €",
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/index.php/english/news/last-opening-days-brevent-ski-resort-2026",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "argentière",
-        "chamonix-mont-blanc",
-        "day",
-        "des",
-        "domaine",
-        "freeride",
-        "grands-montets",
-        "skiable",
-        "sport"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
       "title": "Nature outing - A journey through the forest",
-      "description": "Nature outing. Minimum age 7 years old. Booking compulsory via SMS.",
+      "description": "Nature outing for ages 7+. Minimum age 7 years old.",
       "start_date": "2026-05-20",
       "end_date": "2026-05-20",
       "start_time": "13:00",
@@ -212,43 +112,7 @@
         "the",
         "through"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
-      "title": "EMC2 Theatre cultural season",
-      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "74400",
-        "chamonix",
-        "croz",
-        "cultural",
-        "emc2",
-        "espace",
-        "haute-savoie",
-        "michel",
-        "season",
-        "theatre"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -278,48 +142,12 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
-      "title": "EMC2 Theatre cultural season",
-      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
-      "start_date": "2026-05-27",
-      "end_date": "2026-05-27",
-      "start_time": "09:30",
-      "end_time": "12:00",
-      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "74400",
-        "chamonix",
-        "croz",
-        "cultural",
-        "emc2",
-        "espace",
-        "haute-savoie",
-        "michel",
-        "season",
-        "theatre"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
       "title": "Chamonix Film Festival",
-      "description": "Film festival dedicated to mountain, adventure, and culture films, with projections at Cinéma Vox, debates, workshops, and free outdoor screenings.",
+      "description": "Film festival dedicated to mountain, adventure, and culture films with projections, meetings, talks, and events at Cinéma Vox.",
       "start_date": "2026-06-10",
       "end_date": "2026-06-14",
       "start_time": null,
@@ -327,7 +155,7 @@
       "location": "Cinéma Vox, 22 cour Bartavel, 74400 Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "festival",
+      "event_type": "cultural",
       "languages": [
         "en"
       ],
@@ -345,81 +173,12 @@
         "chamonix-mont-blanc",
         "cinéma",
         "cour",
+        "cultural",
         "festival",
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-06-10-very-young-audience-show-e-mouvoir-chamonix",
-      "title": "Very Young Audience Show - (e)Mouvoir",
-      "description": "Spectacle for very young audience titled (é)Mouvoir.",
-      "start_date": "2026-06-10",
-      "end_date": "2026-06-14",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "(e)mouvoir",
-        "audience",
-        "chamonix-mont-blanc",
-        "cultural",
-        "show",
-        "very",
-        "young"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
-      "title": "Spectacle très jeune public - (é)Mouvoir",
-      "description": "Spectacle for very young audience (from 6 months) exploring movement and impermanence, inspired by children's fascination with moving leaves and the plant world.",
-      "start_date": "2026-06-10",
-      "end_date": "2026-06-14",
-      "start_time": "09:30",
-      "end_time": null,
-      "location": "Espace Michel Croz -EMC2, Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "paid",
-      "ticket_price": "5€",
-      "requires_registration": true,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "(é)mouvoir",
-        "-emc2",
-        "chamonix-mont-blanc",
-        "croz",
-        "cultural",
-        "espace",
-        "jeune",
-        "michel",
-        "public",
-        "spectacle",
-        "très"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -449,17 +208,17 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
-      "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
+      "slug": "2026-06-27-marathon-du-mont-blanc-chamonix",
       "title": "Marathon du Mont-Blanc",
-      "description": "Multi-day trail running event featuring races including 90km, KM Vertical, 23km, and 42km du Mont-Blanc, with starts and finishes at Place du Triangle de l'Amitié in Chamonix.",
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-28",
-      "start_time": null,
+      "description": "Trail running event featuring 8 races including 90km du Mont-Blanc, 42km du Mont-Blanc, 23km du Mont-Blanc, 10km du Mont-Blanc, Kilomètre Vertical, Duo étoilé, Young Race, and Mini-Cross, with thousands of runners over three days in Chamonix.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-30",
+      "start_time": "04:00",
       "end_time": null,
-      "location": "Place du Triangle de l'Amitié, Chamonix",
+      "location": "Chamonix-Mont-Blanc valley",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "sport",
@@ -470,24 +229,22 @@
       "ticket_price": null,
       "requires_registration": true,
       "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/events",
+      "recurrence_pattern": "annual",
+      "official_source_url": "https://www.marathonmontblanc.fr",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix",
-        "l'amitié",
+        "chamonix-mont-blanc",
         "marathon",
         "mont-blanc",
-        "place",
         "sport",
-        "triangle"
+        "valley"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
       "title": "Marathon du Mont-Blanc",
-      "description": "Marathon du Mont-Blanc running event.",
+      "description": "Multi-day trail running event featuring races including 90km, 42km, 23km, 10km, and others in Chamonix-Mont-Blanc.",
       "start_date": "2026-07-10",
       "end_date": "2026-07-12",
       "start_time": null,
@@ -499,12 +256,12 @@
       "languages": [
         "en"
       ],
-      "pricing": "unknown",
+      "pricing": "paid",
       "ticket_price": null,
-      "requires_registration": null,
+      "requires_registration": true,
       "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
+      "recurrence_pattern": "annual",
+      "official_source_url": "https://www.marathonmontblanc.fr",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix-mont-blanc",
@@ -512,12 +269,12 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
       "title": "Cosmojazz Festival",
-      "description": "Jazz festival with altitude concerts, concerts in Chamonix centre at Parc Couttet, and Cosmo Jam sessions, all free except for necessary mountain lifts.",
+      "description": "Jazz festival featuring altitude concerts during the day, musical walks, and evening concerts in Chamonix centre (6-10pm) plus late-night Cosmo Jam sessions (from 10pm). All concerts free of charge.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
@@ -533,8 +290,8 @@
       "ticket_price": null,
       "requires_registration": false,
       "is_recurring": false,
-      "recurrence_pattern": "annual",
-      "official_source_url": "https://cosmojazzfestival.com",
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "74400",
@@ -545,38 +302,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
-    },
-    {
-      "slug": "2026-07-20-coupe-du-monde-d-escalade-chamonix",
-      "title": "Coupe du Monde d'escalade",
-      "description": "World Cup climbing competition.",
-      "start_date": "2026-07-20",
-      "end_date": "2026-07-25",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "coupe",
-        "d'escalade",
-        "monde",
-        "sport"
-      ],
-      "updated_at": "2026-04-25T15:28:31+00:00"
+      "updated_at": "2026-04-25T17:40:03+00:00"
     }
   ]
 }
