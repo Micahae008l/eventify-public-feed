@@ -1,47 +1,54 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T13:29:26+00:00",
+    "generated_at": "2026-04-25T15:28:31+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 5,
+    "count": 4,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
   "events": [
     {
-      "slug": "2026-04-30-spring-hiking-festival-chamonix",
-      "title": "Spring Hiking Festival",
-      "description": "Join us for a day of guided hikes celebrating the arrival of spring.",
-      "start_date": "2026-04-30",
-      "end_date": "2026-04-30",
-      "start_time": "09:00",
-      "end_time": "17:00",
-      "location": "Chamonix-Mont-Blanc",
+      "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
+      "title": "Nature outing - Gourmet forest",
+      "description": "Workshop to discover forests and ancient potions using all 5 senses. Minimum age 7 years old.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "location": "Site d'escalade des Gaillands, 74400 Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "festival",
+      "event_type": "outdoor",
       "languages": [
         "en"
       ],
-      "pricing": "free",
-      "ticket_price": null,
-      "requires_registration": false,
+      "pricing": "paid",
+      "ticket_price": "Adult: 8 €, Child (18 years): 4 €",
+      "requires_registration": true,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
       "instagram_post_url": null,
       "slug_search_tokens": [
+        "74400",
         "chamonix-mont-blanc",
-        "festival",
-        "hiking",
-        "spring"
+        "d'escalade",
+        "des",
+        "forest",
+        "gaillands",
+        "gourmet",
+        "nature",
+        "outdoor",
+        "outing",
+        "site"
       ],
-      "updated_at": "2026-04-25T13:29:26+00:00"
+      "updated_at": "2026-04-25T15:28:31+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
-      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks!",
+      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks.",
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
       "start_time": "18:30",
@@ -58,7 +65,7 @@
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/news/last-opening-days-brevent-ski-resort-2026",
+      "official_source_url": "https://www.chamonix.net/index.php/english/news/last-opening-days-brevent-ski-resort-2026",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "2231",
@@ -71,47 +78,7 @@
         "route",
         "servoz"
       ],
-      "updated_at": "2026-04-25T13:29:26+00:00"
-    },
-    {
-      "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
-      "title": "Freeride day at Les Grands Montets",
-      "description": "End of ski season party with waterslide challenge, zipline, DJ sets, costume contest, and other animations at Grands Montets.",
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "start_time": "08:30",
-      "end_time": "17:00",
-      "location": "Domaine skiable des Grands-Montets, Chemin de la Glacière, 74400 Argentière",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "outdoor",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "paid",
-      "ticket_price": "10 €",
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.com/agenda/evenements-et-manifestations/freeride-day",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "74400",
-        "argentière",
-        "chemin",
-        "day",
-        "des",
-        "domaine",
-        "freeride",
-        "glacière",
-        "grands",
-        "grands-montets",
-        "les",
-        "montets",
-        "outdoor",
-        "skiable"
-      ],
-      "updated_at": "2026-04-25T13:29:26+00:00"
+      "updated_at": "2026-04-25T15:28:31+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -147,41 +114,40 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-25T13:29:26+00:00"
+      "updated_at": "2026-04-25T15:28:31+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
-      "title": "CosmoJazz Festival 2026",
-      "description": "The 16th edition of the CosmoJazz Festival will take place from July 20 to 25, 2026, in the Chamonix-Mont-Blanc valley. Six days of free concerts at altitude and in town, with a program blending jazz, world music, and artistic discoveries in the valley's exceptional natural sites.",
+      "title": "Cosmojazz Festival",
+      "description": "Jazz festival with altitude concerts, concerts in Chamonix centre at Parc Couttet, and Cosmo Jam sessions, all free except for necessary mountain lifts.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
-      "start_time": "00:00",
+      "start_time": null,
       "end_time": null,
-      "location": "Parc Couttet et scènes d'altitude",
+      "location": "Parc Couttet, 74400 Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
+      "event_type": "music",
       "languages": [
         "en"
       ],
-      "pricing": "paid",
-      "ticket_price": "0 EUR",
-      "requires_registration": null,
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
       "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.festivalenfrance.com/festival/cosmojazz-festival",
+      "recurrence_pattern": "annual",
+      "official_source_url": "https://cosmojazzfestival.com",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2026",
+        "74400",
+        "chamonix-mont-blanc",
         "cosmojazz",
         "couttet",
-        "cultural",
-        "d'altitude",
         "festival",
-        "parc",
-        "scènes"
+        "music",
+        "parc"
       ],
-      "updated_at": "2026-04-25T13:29:26+00:00"
+      "updated_at": "2026-04-25T15:28:31+00:00"
     }
   ]
 }
