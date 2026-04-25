@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T18:42:18+00:00",
+    "generated_at": "2026-04-25T19:40:46+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 17,
+    "count": 20,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -43,7 +43,7 @@
         "site",
         "workshop"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -75,7 +75,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -112,7 +112,7 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-05-14-art-zen-retreat-chamonix",
@@ -143,7 +143,7 @@
         "retreat",
         "zen"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
@@ -180,7 +180,7 @@
         "the",
         "through"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -210,7 +210,44 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
+    },
+    {
+      "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
+      "title": "Spectacle très jeune public - (é)Mouvoir",
+      "description": "Performance for very young children (0.5+ years) exploring movement and impermanence, inspired by children's fascination with moving leaves, by Compagnie entre eux deux rives.",
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "start_time": "09:30",
+      "end_time": "11:15",
+      "location": "Espace Michel Croz -EMC2, Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "5€",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/spectacle-tres-jeune-public-e-mouvoir",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "(é)mouvoir",
+        "-emc2",
+        "chamonix-mont-blanc",
+        "croz",
+        "cultural",
+        "espace",
+        "jeune",
+        "michel",
+        "public",
+        "spectacle",
+        "très"
+      ],
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -246,7 +283,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-10-very-young-audience-show-e-mouvoir-chamonix",
@@ -279,7 +316,7 @@
         "very",
         "young"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -316,7 +353,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-21-fete-de-la-musique-chamonix",
@@ -346,7 +383,7 @@
         "music",
         "musique"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -376,7 +413,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-06-27-marathon-du-mont-blanc-chamonix",
@@ -407,7 +444,7 @@
         "sport",
         "valley"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-07-03-limitless-days-mont-blanc-chamonix",
@@ -440,7 +477,7 @@
         "mont-blanc",
         "outdoor"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
@@ -470,7 +507,40 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
+    },
+    {
+      "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
+      "title": "Coupe du Monde d'escalade",
+      "description": "World Cup climbing competition featuring speed and difficulty disciplines with the world's best climbers competing at the foot of Mont-Blanc.",
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-12",
+      "start_time": "17:00",
+      "end_time": "22:30",
+      "location": "Place du Mont-Blanc, Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.coupe-du-monde-escalade.com",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "coupe",
+        "d'escalade",
+        "monde",
+        "mont-blanc",
+        "place",
+        "sport"
+      ],
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -503,7 +573,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-07-20-coupe-du-monde-d-escalade-chamonix",
@@ -534,7 +604,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
     },
     {
       "slug": "2026-09-18-mountain-reset-yoga-retreat-chamonix",
@@ -569,7 +639,37 @@
         "the",
         "yoga"
       ],
-      "updated_at": "2026-04-25T18:42:18+00:00"
+      "updated_at": "2026-04-25T19:40:46+00:00"
+    },
+    {
+      "slug": "2026-12-16-chamonix-christmas-market-chamonix",
+      "title": "Chamonix Christmas Market",
+      "description": "Experience the magic of Christmas with the Chamonix-Mont-Blanc Valley!",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/generic/hotel-heliopic-sweet-and-spa/18309",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "chamonix-mont-blanc",
+        "christmas",
+        "market"
+      ],
+      "updated_at": "2026-04-25T19:40:46+00:00"
     }
   ]
 }

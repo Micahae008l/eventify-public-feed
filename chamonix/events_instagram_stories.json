@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T18:42:19+00:00",
+    "generated_at": "2026-04-25T19:40:47+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 3,
@@ -43,7 +43,7 @@
         "site",
         "workshop"
       ],
-      "updated_at": "2026-04-25T18:42:19+00:00"
+      "updated_at": "2026-04-25T19:40:47+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -75,7 +75,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-25T18:42:19+00:00"
+      "updated_at": "2026-04-25T19:40:47+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -108,7 +108,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T18:42:19+00:00"
+      "updated_at": "2026-04-25T19:40:47+00:00"
     }
   ]
 }
