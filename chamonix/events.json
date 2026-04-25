@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T18:12:16+00:00",
+    "generated_at": "2026-04-25T18:42:18+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 13,
+    "count": 17,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -43,7 +43,7 @@
         "site",
         "workshop"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -75,7 +75,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -112,7 +112,38 @@
         "skiable",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
+    },
+    {
+      "slug": "2026-05-14-art-zen-retreat-chamonix",
+      "title": "Art & Zen Retreat",
+      "description": "A retreat focused on art and mindfulness in the serene French Alps.",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-17",
+      "start_time": "15:00",
+      "end_time": "12:00",
+      "location": "Chalet Beauceron",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "retreat",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€790",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.eventbrite.ca/e/art-zen-retreat-may-14-17-in-the-french-alps-tickets-1977172285530?aff=ebdssbcitybrowse",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "art",
+        "beauceron",
+        "chalet",
+        "retreat",
+        "zen"
+      ],
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
@@ -149,7 +180,7 @@
         "the",
         "through"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -179,7 +210,7 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -215,7 +246,40 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
+    },
+    {
+      "slug": "2026-06-10-very-young-audience-show-e-mouvoir-chamonix",
+      "title": "Very Young Audience Show - (e)Mouvoir",
+      "description": "Spectacle for very young audience titled (é)Mouvoir.",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-14",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "(e)mouvoir",
+        "audience",
+        "chamonix-mont-blanc",
+        "cultural",
+        "show",
+        "very",
+        "young"
+      ],
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -252,7 +316,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-06-21-fete-de-la-musique-chamonix",
@@ -282,7 +346,7 @@
         "music",
         "musique"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -312,7 +376,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-06-27-marathon-du-mont-blanc-chamonix",
@@ -343,7 +407,40 @@
         "sport",
         "valley"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
+    },
+    {
+      "slug": "2026-07-03-limitless-days-mont-blanc-chamonix",
+      "title": "LIMITLESS DAYS | MONT-BLANC",
+      "description": "An outdoor event at Lac des Chavants celebrating limitless days.",
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-04",
+      "start_time": "11:00",
+      "end_time": "17:00",
+      "location": "Lac des Chavants",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "0.00 EUR",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.eventbrite.com/e/billets-limitless-days-mont-blanc-1980945846352?aff=ebdssbcitybrowse",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chavants",
+        "days",
+        "des",
+        "lac",
+        "limitless",
+        "mont-blanc",
+        "outdoor"
+      ],
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
@@ -373,12 +470,12 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
       "title": "Cosmojazz Festival",
-      "description": "Jazz festival featuring altitude concerts during the day, musical walks, and evening concerts in Chamonix centre (6-10pm) plus late-night Cosmo Jam sessions (from 10pm). All concerts free of charge.",
+      "description": "Jazz festival with altitude concerts, concerts in Chamonix center at Parc Couttet, and Cosmo Jam sessions. All concerts free.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
@@ -392,10 +489,10 @@
       ],
       "pricing": "free",
       "ticket_price": null,
-      "requires_registration": false,
+      "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "official_source_url": "https://cosmojazzfestival.com",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "74400",
@@ -406,7 +503,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
     },
     {
       "slug": "2026-07-20-coupe-du-monde-d-escalade-chamonix",
@@ -437,7 +534,42 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-25T18:12:16+00:00"
+      "updated_at": "2026-04-25T18:42:18+00:00"
+    },
+    {
+      "slug": "2026-09-18-mountain-reset-yoga-retreat-chamonix",
+      "title": "Mountain Reset Yoga Retreat",
+      "description": "A yoga retreat focused on resetting in the mountain environment.",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-21",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "location": "Chalet l'Ecuela, The Old School",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "retreat",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "$825",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.eventbrite.com/e/mountain-reset-yoga-retreat-tickets-1976694800359?aff=ebdssbcitybrowse",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chalet",
+        "l'ecuela",
+        "mountain",
+        "old",
+        "reset",
+        "retreat",
+        "school",
+        "the",
+        "yoga"
+      ],
+      "updated_at": "2026-04-25T18:42:18+00:00"
     }
   ]
 }
