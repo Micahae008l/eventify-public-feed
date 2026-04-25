@@ -1,13 +1,43 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T09:45:24+00:00",
+    "generated_at": "2026-04-25T13:29:26+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 4,
+    "count": 5,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
   "events": [
+    {
+      "slug": "2026-04-30-spring-hiking-festival-chamonix",
+      "title": "Spring Hiking Festival",
+      "description": "Join us for a day of guided hikes celebrating the arrival of spring.",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "festival",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "festival",
+        "hiking",
+        "spring"
+      ],
+      "updated_at": "2026-04-25T13:29:26+00:00"
+    },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
@@ -41,7 +71,7 @@
         "route",
         "servoz"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -81,7 +111,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -117,7 +147,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -151,7 +181,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     }
   ]
 }

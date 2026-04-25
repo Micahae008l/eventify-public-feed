@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T09:45:24+00:00",
+    "generated_at": "2026-04-25T13:29:26+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 20,
@@ -36,7 +36,7 @@
         "hiking",
         "spring"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -71,7 +71,7 @@
         "route",
         "servoz"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -111,7 +111,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-15-chamonix-trail-running-challenge-chamonix",
@@ -143,7 +143,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-journey-through-the-forest-chamonix",
@@ -180,7 +180,7 @@
         "the",
         "through"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -216,7 +216,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-23-european-night-of-the-museums-chamonix",
@@ -258,7 +258,7 @@
         "tairraz",
         "the"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-27-freeride-day-chamonix",
@@ -288,7 +288,7 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
@@ -324,7 +324,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-06-emc2-theatre-cultural-season-chamonix",
@@ -360,7 +360,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -395,7 +395,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -428,7 +428,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-25-chamonix-film-festival-chamonix",
@@ -458,7 +458,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -491,7 +491,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-06-25-pick-up-of-race-numbers-for-the-23km-chamonix",
@@ -529,7 +529,7 @@
         "the",
         "workshop"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-07-01-cosmo-jazz-festival-chamonix",
@@ -562,7 +562,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-07-10-marathon-du-mont-blanc-chamonix",
@@ -592,7 +592,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-07-20-coupe-du-monde-d-escalade-chamonix",
@@ -623,7 +623,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -657,7 +657,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     },
     {
       "slug": "2026-08-24-utmb-mont-blanc-chamonix",
@@ -687,7 +687,7 @@
         "sport",
         "utmb"
       ],
-      "updated_at": "2026-04-25T09:45:24+00:00"
+      "updated_at": "2026-04-25T13:29:26+00:00"
     }
   ]
 }
