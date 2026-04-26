@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T09:28:31+00:00",
+    "generated_at": "2026-04-26T13:29:45+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 3,
+    "count": 4,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -38,7 +38,39 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T09:28:31+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
+    },
+    {
+      "slug": "2026-05-03-le-freeride-day-chamonix",
+      "title": "Le Freeride Day",
+      "description": "Come celebrate the end of the ski season at Grands Montets on Sunday, May 3, 2026. Music, skiing, entertainment, bars… This day is included in valid season, annual, and stay passes.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Grands Montets",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/events/le-freeride-day",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "day",
+        "freeride",
+        "grands",
+        "les",
+        "montets",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -78,7 +110,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-26T09:28:31+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -110,7 +142,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:28:31+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T09:28:30+00:00",
+    "generated_at": "2026-04-26T13:29:45+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 30,
@@ -39,7 +39,7 @@
         "maigret",
         "mort"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-04-26-exposition-tresor-mineral-la-collection-raymond-thibault-chamonix",
@@ -74,7 +74,7 @@
         "thibault",
         "trésor"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-04-26-flea-market-chamonix",
@@ -104,7 +104,7 @@
         "les",
         "market"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-04-26-rail-and-trail-nature-and-heritage-quiz-in-les-bois-de-chamonix-chamonix",
@@ -141,7 +141,7 @@
         "rail",
         "trail"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-04-26-visit-and-workshop-to-create-your-own-butter-chamonix",
@@ -176,7 +176,7 @@
         "workshop",
         "your"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -208,7 +208,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -240,7 +240,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -280,7 +280,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-22-curiosite-chamonix",
@@ -313,7 +313,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -346,7 +346,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -382,7 +382,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -412,7 +412,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-25-number-withdrawal-for-23km-du-mont-blanc-chamonix",
@@ -448,7 +448,7 @@
         "sport",
         "withdrawal"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-25-race-number-collection-chamonix",
@@ -481,7 +481,7 @@
         "race",
         "salle"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-26-race-number-collection-chamonix",
@@ -513,7 +513,7 @@
         "room",
         "unknown"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-26-first-finishers-of-the-90km-du-mont-blanc-chamonix",
@@ -549,7 +549,7 @@
         "the",
         "triangle"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -581,7 +581,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-27-first-finishers-of-the-23km-chamonix",
@@ -614,7 +614,7 @@
         "sport",
         "the"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-27-start-of-the-young-race-chamonix",
@@ -649,7 +649,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-27-elite-presentation-followed-by-autograph-session-chamonix",
@@ -685,7 +685,7 @@
         "session",
         "triangle"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-28-start-of-the-elite-women-s-42km-mont-blanc-race-chamonix",
@@ -723,7 +723,7 @@
         "triangle",
         "women's"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-06-28-presentation-of-club-des-sports-de-chamonix-solidarity-bibs-chamonix",
@@ -760,7 +760,7 @@
         "sports",
         "triangle"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -793,7 +793,7 @@
         "place",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -825,7 +825,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-23-gallowstreet-chamonix",
@@ -855,7 +855,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-23-nesrine-chamonix",
@@ -887,7 +887,7 @@
         "music",
         "nesrine"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-25-raul-monsalve-y-los-forajidos-chamonix",
@@ -920,7 +920,7 @@
         "parc",
         "raul"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-25-the-bongo-hop-chamonix",
@@ -952,7 +952,7 @@
         "parc",
         "the"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2026-07-27-andre-manoukian-4tet-chamonix",
@@ -983,7 +983,7 @@
         "music",
         "planpraz"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -1017,7 +1017,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-26T09:28:30+00:00"
+      "updated_at": "2026-04-26T13:29:45+00:00"
     }
   ]
 }
