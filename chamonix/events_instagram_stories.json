@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T13:29:45+00:00",
+    "generated_at": "2026-04-26T16:08:53+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 4,
+    "count": 3,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -38,111 +38,67 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T13:29:45+00:00"
+      "updated_at": "2026-04-26T16:08:53+00:00"
     },
     {
-      "slug": "2026-05-03-le-freeride-day-chamonix",
-      "title": "Le Freeride Day",
-      "description": "Come celebrate the end of the ski season at Grands Montets on Sunday, May 3, 2026. Music, skiing, entertainment, bars… This day is included in valid season, annual, and stay passes.",
+      "slug": "2026-05-03-freeride-day-chamonix",
+      "title": "Freeride Day",
+      "description": "A day dedicated to freeride skiing and snowboarding.",
       "start_date": "2026-05-03",
       "end_date": "2026-05-03",
       "start_time": null,
       "end_time": null,
-      "location": "Les Grands Montets",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/events/le-freeride-day",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "day",
-        "freeride",
-        "grands",
-        "les",
-        "montets",
-        "sport"
-      ],
-      "updated_at": "2026-04-26T13:29:45+00:00"
-    },
-    {
-      "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
-      "title": "Freeride day at Les Grands Montets",
-      "description": "End-of-ski-season party with waterslide challenge, zipline, DJ sets, costume contest (Manga theme), and other animations.",
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "start_time": "08:30",
-      "end_time": "17:00",
-      "location": "Domaine skiable des Grands-Montets, Chemin de la Glacière, 74400 Argentière",
+      "location": "Argentière",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "outdoor",
       "languages": [
-        "fr"
+        "en"
       ],
-      "pricing": "paid",
-      "ticket_price": "10 €",
-      "requires_registration": false,
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.com/agenda/evenements-et-manifestations/freeride-day",
+      "official_source_url": "https://en.chamonix.com/agenda/highlights/freeride-day",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "74400",
         "argentière",
-        "chemin",
         "day",
-        "des",
-        "domaine",
         "freeride",
-        "glacière",
-        "grands",
-        "grands-montets",
-        "les",
-        "montets",
-        "outdoor",
-        "skiable"
+        "outdoor"
       ],
-      "updated_at": "2026-04-26T13:29:45+00:00"
+      "updated_at": "2026-04-26T16:08:53+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
       "title": "Cosmojazz Festival",
-      "description": "Free jazz festival with concerts at high-altitude sites like Planpraz, La Flégère, and Lac des Chavants, plus evening performances in Chamonix valley.",
+      "description": "A music festival featuring various artists in a mountain setting.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
       "end_time": null,
-      "location": "Parc Couttet, Chamonix-Mont-Blanc",
+      "location": "Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "music",
       "languages": [
         "en"
       ],
-      "pricing": "free",
+      "pricing": "unknown",
       "ticket_price": null,
-      "requires_registration": false,
+      "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "official_source_url": "https://en.chamonix.com/agenda/highlights/cosmojazz-festival",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix-mont-blanc",
         "cosmojazz",
-        "couttet",
         "festival",
-        "music",
-        "parc"
+        "music"
       ],
-      "updated_at": "2026-04-26T13:29:45+00:00"
+      "updated_at": "2026-04-26T16:08:53+00:00"
     }
   ]
 }
