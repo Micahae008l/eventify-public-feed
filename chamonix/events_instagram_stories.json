@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T09:27:23+00:00",
+    "generated_at": "2026-04-26T09:28:31+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 3,
@@ -11,12 +11,12 @@
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
-      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks.",
+      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere.",
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
-      "start_time": "18:30",
-      "end_time": "22:30",
-      "location": "Maison du Lieutenant, 2231 route du Mont, Servoz",
+      "start_time": null,
+      "end_time": null,
+      "location": "Maison du Lieutenant, Servoz",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -28,20 +28,17 @@
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/news/last-opening-days-brevent-ski-resort-2026",
+      "official_source_url": "https://www.chamonix.net/english/events/open-mic-servoz",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2231",
         "cultural",
         "lieutenant",
         "maison",
         "mic",
-        "mont",
         "open",
-        "route",
         "servoz"
       ],
-      "updated_at": "2026-04-26T09:27:23+00:00"
+      "updated_at": "2026-04-26T09:28:31+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -81,7 +78,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-26T09:27:23+00:00"
+      "updated_at": "2026-04-26T09:28:31+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -113,7 +110,7 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:27:23+00:00"
+      "updated_at": "2026-04-26T09:28:31+00:00"
     }
   ]
 }

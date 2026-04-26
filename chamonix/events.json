@@ -1,22 +1,192 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T09:27:22+00:00",
+    "generated_at": "2026-04-26T09:28:30+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 15,
+    "count": 30,
     "schema_version": "1.0.0",
     "export_filter": null
   },
   "events": [
     {
+      "slug": "2026-04-26-cinema-maigret-et-le-mort-amoureux-chamonix",
+      "title": "Cinéma « Maigret et le mort amoureux »",
+      "description": "Screening of the film 'Maigret et le mort amoureux'.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-les-houches-servoz/cinema-maigret-et-le-mort-amoureux",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "amoureux",
+        "cinéma",
+        "cultural",
+        "houches",
+        "les",
+        "maigret",
+        "mort"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-04-26-exposition-tresor-mineral-la-collection-raymond-thibault-chamonix",
+      "title": "Exposition : Trésor minéral : la collection Raymond Thibault",
+      "description": "An exhibition showcasing the mineral collection of Raymond Thibault.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "exhibition",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/exposition-tresor-mineral-la-collection-raymond-thibault",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "collection",
+        "exhibition",
+        "exposition",
+        "houches",
+        "les",
+        "minéral",
+        "raymond",
+        "thibault",
+        "trésor"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-04-26-flea-market-chamonix",
+      "title": "Flea market",
+      "description": "A local flea market.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/planifier-mon-sejour/infos-et-services/marches/flea-market",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "flea",
+        "houches",
+        "les",
+        "market"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-04-26-rail-and-trail-nature-and-heritage-quiz-in-les-bois-de-chamonix-chamonix",
+      "title": "Rail and Trail - Nature and heritage quiz in Les Bois de Chamonix",
+      "description": "A quiz event focusing on nature and heritage in Les Bois de Chamonix.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "and",
+        "bois",
+        "chamonix",
+        "heritage",
+        "houches",
+        "les",
+        "nature",
+        "outdoor",
+        "quiz",
+        "rail",
+        "trail"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-04-26-visit-and-workshop-to-create-your-own-butter-chamonix",
+      "title": "Visit and workshop to create your own butter",
+      "description": "A workshop where participants can learn to create their own butter.",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/visit-and-workshop-to-create-your-own-butter",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "and",
+        "butter",
+        "create",
+        "houches",
+        "les",
+        "own",
+        "visit",
+        "workshop",
+        "your"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
-      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere. Discover local talent while enjoying homemade food and drinks.",
+      "description": "Everyone is welcome, from beginners to professionals. Prepare your performance and take the stage. Enjoy an inclusive, friendly, and relaxed atmosphere.",
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
-      "start_time": "18:30",
-      "end_time": "22:30",
-      "location": "Maison du Lieutenant, 2231 route du Mont, Servoz",
+      "start_time": null,
+      "end_time": null,
+      "location": "Maison du Lieutenant, Servoz",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -28,20 +198,49 @@
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/news/last-opening-days-brevent-ski-resort-2026",
+      "official_source_url": "https://www.chamonix.net/english/events/open-mic-servoz",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2231",
         "cultural",
         "lieutenant",
         "maison",
         "mic",
-        "mont",
         "open",
-        "route",
         "servoz"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-05-03-le-freeride-day-chamonix",
+      "title": "Le Freeride Day",
+      "description": "Come celebrate the end of the ski season at Grands Montets on Sunday, May 3, 2026. Music, skiing, entertainment, bars… This day is included in valid season, annual, and stay passes.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": null,
+      "end_time": null,
+      "location": "Les Grands Montets",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/events/le-freeride-day",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "day",
+        "freeride",
+        "grands",
+        "les",
+        "montets",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-at-les-grands-montets-chamonix",
@@ -81,7 +280,7 @@
         "outdoor",
         "skiable"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-05-22-curiosite-chamonix",
@@ -114,7 +313,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -147,7 +346,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -183,7 +382,7 @@
         "film",
         "vox"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -213,7 +412,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-06-25-number-withdrawal-for-23km-du-mont-blanc-chamonix",
@@ -249,7 +448,7 @@
         "sport",
         "withdrawal"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-06-25-race-number-collection-chamonix",
@@ -282,7 +481,75 @@
         "race",
         "salle"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-26-race-number-collection-chamonix",
+      "title": "Race number collection",
+      "description": "Collection of race numbers for the Mont-Blanc Marathon.",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "start_time": "09:00",
+      "end_time": "21:00",
+      "location": "EMC2 room",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "unknown",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "collection",
+        "emc2",
+        "number",
+        "race",
+        "room",
+        "unknown"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-26-first-finishers-of-the-90km-du-mont-blanc-chamonix",
+      "title": "First finishers of the 90km du Mont-Blanc",
+      "description": "Announcement of the first finishers of the 90km race.",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "start_time": "14:30",
+      "end_time": "00:00",
+      "location": "Place du Triangle de l'Amitié - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/90km-du-mont-blanc",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "90km",
+        "chamonix",
+        "finishers",
+        "first",
+        "l'amitié",
+        "mont-blanc",
+        "place",
+        "sport",
+        "the",
+        "triangle"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -314,7 +581,186 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-27-first-finishers-of-the-23km-chamonix",
+      "title": "First finishers of the 23km",
+      "description": "Announcement of the first finishers of the 23km race.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "location": "Planpraz - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/23km-du-mont-blanc",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "23km",
+        "chamonix",
+        "finishers",
+        "first",
+        "planpraz",
+        "sport",
+        "the"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-27-start-of-the-young-race-chamonix",
+      "title": "Start of The Young Race",
+      "description": "Start of The Young Race.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "start_time": "15:00",
+      "end_time": "19:45",
+      "location": "Place du Triangle de l'Amitié - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/young-race-marathon",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "l'amitié",
+        "place",
+        "race",
+        "sport",
+        "start",
+        "the",
+        "triangle",
+        "young"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-27-elite-presentation-followed-by-autograph-session-chamonix",
+      "title": "Elite presentation followed by autograph session",
+      "description": "Presentation of elite runners followed by an autograph session.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "start_time": "18:00",
+      "end_time": null,
+      "location": "Place du Triangle de l'Amitié - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/coureurs/elites",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "autograph",
+        "chamonix",
+        "cultural",
+        "elite",
+        "followed",
+        "l'amitié",
+        "place",
+        "presentation",
+        "session",
+        "triangle"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-28-start-of-the-elite-women-s-42km-mont-blanc-race-chamonix",
+      "title": "Start of the elite women's 42km Mont-Blanc race",
+      "description": "Start of the elite women's race in the Mont-Blanc Marathon.",
+      "start_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "start_time": "06:45",
+      "end_time": "16:45",
+      "location": "Place du Triangle de l'Amitié - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/42km-du-mont-blanc",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "42km",
+        "chamonix",
+        "elite",
+        "l'amitié",
+        "mont-blanc",
+        "place",
+        "race",
+        "sport",
+        "start",
+        "the",
+        "triangle",
+        "women's"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-06-28-presentation-of-club-des-sports-de-chamonix-solidarity-bibs-chamonix",
+      "title": "Presentation of Club des Sports de Chamonix solidarity bibs",
+      "description": "Presentation of solidarity bibs by Club des Sports de Chamonix.",
+      "start_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "start_time": "16:50",
+      "end_time": null,
+      "location": "Place du Triangle de l'Amitié - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€70",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bibs",
+        "chamonix",
+        "club",
+        "cultural",
+        "des",
+        "l'amitié",
+        "place",
+        "presentation",
+        "solidarity",
+        "sports",
+        "triangle"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -347,7 +793,7 @@
         "place",
         "sport"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -379,17 +825,17 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-07-23-gallowstreet-chamonix",
-      "title": "GALLOWSTREET",
-      "description": "Gallowstreet performance at CosmoJazz Festival Chamonix.",
+      "title": "Gallowstreet",
+      "description": "Performance by Gallowstreet.",
       "start_date": "2026-07-23",
       "end_date": "2026-07-23",
       "start_time": "20:00",
       "end_time": null,
-      "location": "Parc Couttet, Chamonix",
+      "location": "Parc Couttet",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "music",
@@ -401,16 +847,15 @@
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://cosmojazzfestival.com/en/media/photos/2025/wednesday-23-18h-parc-couttet",
+      "official_source_url": "https://cosmojazzfestival.com/en/",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix",
         "couttet",
         "gallowstreet",
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-07-23-nesrine-chamonix",
@@ -442,32 +887,31 @@
         "music",
         "nesrine"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2026-07-25-raul-monsalve-y-los-forajidos-chamonix",
-      "title": "RAUL MONSALVE Y LOS FORAJIDOS",
-      "description": "Performance by Ra\u001ful Monsalve y Los Forajidos at CosmoJazz Festival Chamonix.",
+      "title": "Raul Monsalve y Los Forajidos",
+      "description": "Performance by Raul Monsalve y Los Forajidos.",
       "start_date": "2026-07-25",
       "end_date": "2026-07-25",
       "start_time": "18:00",
       "end_time": null,
-      "location": "Parc Couttet, Chamonix",
+      "location": "Parc Couttet",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "music",
       "languages": [
         "en"
       ],
-      "pricing": "free",
+      "pricing": "unknown",
       "ticket_price": null,
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://cosmojazzfestival.com/en/media/photos/2025/wednesday-23-18h-parc-couttet",
+      "official_source_url": "https://cosmojazzfestival.com/en/",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix",
         "couttet",
         "forajidos",
         "los",
@@ -476,7 +920,70 @@
         "parc",
         "raul"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-07-25-the-bongo-hop-chamonix",
+      "title": "The Bongo Hop",
+      "description": "Performance by The Bongo Hop.",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-25",
+      "start_time": "20:00",
+      "end_time": null,
+      "location": "Parc Couttet",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bongo",
+        "couttet",
+        "hop",
+        "music",
+        "parc",
+        "the"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
+    },
+    {
+      "slug": "2026-07-27-andre-manoukian-4tet-chamonix",
+      "title": "André Manoukian 4Tet",
+      "description": "Performance by André Manoukian 4Tet.",
+      "start_date": "2026-07-27",
+      "end_date": "2026-07-27",
+      "start_time": null,
+      "end_time": null,
+      "location": "Planpraz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "4tet",
+        "andré",
+        "manoukian",
+        "music",
+        "planpraz"
+      ],
+      "updated_at": "2026-04-26T09:28:30+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -510,7 +1017,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-26T09:27:22+00:00"
+      "updated_at": "2026-04-26T09:28:30+00:00"
     }
   ]
 }
