@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T16:08:52+00:00",
+    "generated_at": "2026-04-26T18:27:47+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 22,
+    "count": 17,
     "schema_version": "1.0.0",
     "export_filter": null
   },
   "events": [
     {
       "slug": "2026-04-26-cinema-maigret-et-le-mort-amoureux-chamonix",
-      "title": "Cinéma  « Maigret et le mort amoureux »",
-      "description": "A screening of the film 'Maigret et le mort amoureux'.",
+      "title": "Cinéma \"Maigret et le mort amoureux\"",
+      "description": "Screening of the film 'Maigret et le mort amoureux'.",
       "start_date": "2026-04-26",
       "end_date": "2026-04-26",
       "start_time": null,
@@ -31,47 +31,15 @@
       "official_source_url": "https://en.chamonix.com/animations-et-evenements-les-houches-servoz/cinema-maigret-et-le-mort-amoureux",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "amoureux",
+        "\"maigret",
+        "amoureux\"",
         "cinéma",
         "cultural",
         "houches",
         "les",
-        "maigret",
         "mort"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2026-04-26-europa-cup-chamonix",
-      "title": "Europa Cup",
-      "description": "A competitive skiing event featuring top athletes.",
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc, French Alps",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "sport",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.fis-ski.com/DB/general/event-details.html?sectorcode=AL&eventid=58091&seasoncode=2026",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "alps",
-        "chamonix-mont-blanc",
-        "cup",
-        "europa",
-        "french",
-        "sport"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-04-26-exposition-tresor-mineral-la-collection-raymond-thibault-chamonix",
@@ -106,7 +74,7 @@
         "thibault",
         "trésor"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-04-26-flea-market-chamonix",
@@ -136,7 +104,7 @@
         "les",
         "market"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-04-26-rail-and-trail-nature-and-heritage-quiz-in-les-bois-de-chamonix-chamonix",
@@ -173,7 +141,7 @@
         "rail",
         "trail"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-04-26-visit-and-workshop-to-create-your-own-butter-chamonix",
@@ -208,7 +176,7 @@
         "workshop",
         "your"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -240,80 +208,53 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-05-03-freeride-day-chamonix",
-      "title": "Freeride Day",
-      "description": "A day dedicated to freeride skiing and snowboarding.",
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "start_time": null,
-      "end_time": null,
-      "location": "Argentière",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "outdoor",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/highlights/freeride-day",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "argentière",
-        "day",
-        "freeride",
-        "outdoor"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2026-05-22-curiosite-chamonix",
-      "title": "Curiosité",
-      "description": "A cultural event featuring various performances.",
+      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
       "start_date": "2026-05-22",
       "end_date": "2026-05-22",
       "start_time": "20:30",
-      "end_time": null,
-      "location": "Espace Michel Croz - EMC2, Chamonix-Mont-Blanc",
+      "end_time": "21:30",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
       "languages": [
         "en"
       ],
-      "pricing": "paid",
-      "ticket_price": "€24",
-      "requires_registration": null,
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://billetterie-chamonix.mapado.com",
+      "official_source_url": "https://www.seechamonix.com/events/",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix-mont-blanc",
+        "74400",
+        "chamonix",
         "croz",
         "cultural",
-        "curiosité",
         "emc2",
         "espace",
-        "michel"
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-05-27-e-mouvoir-chamonix",
-      "title": "(é)Mouvoir",
-      "description": "A performance suitable for young audiences.",
+      "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
+      "title": "Spectacle très jeune public - (é)Mouvoir",
+      "description": "A performance aimed at very young audiences.",
       "start_date": "2026-05-27",
       "end_date": "2026-05-27",
-      "start_time": "09:30",
-      "end_time": "11:15",
-      "location": "Espace Michel Croz - EMC2, Chamonix-Mont-Blanc",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -324,29 +265,65 @@
       "ticket_price": null,
       "requires_registration": null,
       "is_recurring": false,
-      "recurrence_pattern": "other dates",
-      "official_source_url": "https://billetterie-chamonix.mapado.com/en/event/558986-e-mouvoir",
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/spectacle-tres-jeune-public-e-mouvoir",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "(é)mouvoir",
         "chamonix-mont-blanc",
+        "cultural",
+        "jeune",
+        "public",
+        "spectacle",
+        "très"
+      ],
+      "updated_at": "2026-04-26T18:27:47+00:00"
+    },
+    {
+      "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "start_time": "09:30",
+      "end_time": "12:00",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "chamonix",
         "croz",
         "cultural",
         "emc2",
         "espace",
-        "michel"
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
-      "title": "Chamonix Film Festival 2026",
-      "description": "The 6th edition of the Chamonix Film Festival will be held from June 10 to 14, 2026. The festival will feature a selection of the best mountain and adventure films of the year, with screenings, debates, workshops, and meetings at the Le Vox cinema, PlanB, and Parc Couttet.",
+      "title": "Chamonix Film Festival",
+      "description": "An annual film festival showcasing various films.",
       "start_date": "2026-06-10",
       "end_date": "2026-06-14",
-      "start_time": "00:00",
+      "start_time": null,
       "end_time": null,
-      "location": "Cinéma Le Vox, PlanB et Parc Couttet",
+      "location": "Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "cultural",
@@ -358,21 +335,16 @@
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.festivalenfrance.com/festival/chamonix-film-festival",
+      "official_source_url": "https://en.chamonix.com/agenda/highlights/chamonix-film-festival",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "2026",
         "chamonix",
-        "cinéma",
-        "couttet",
+        "chamonix-mont-blanc",
         "cultural",
         "festival",
-        "film",
-        "parc",
-        "planb",
-        "vox"
+        "film"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -402,48 +374,16 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-06-25-race-number-collection-chamonix",
-      "title": "Race number collection",
-      "description": "Collection of race numbers for participants.",
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "start_time": "09:00",
-      "end_time": "21:00",
-      "location": "salle EMC2",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "unknown",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.marathonmontblanc.fr/en/coureurs/retrait-des-dossards",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "collection",
-        "emc2",
-        "number",
-        "race",
-        "salle",
-        "unknown"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2026-06-26-first-finishers-of-the-90km-du-mont-blanc-chamonix",
-      "title": "First finishers of the 90km du Mont-Blanc",
-      "description": "Announcement of the first finishers of the 90km race.",
+      "slug": "2026-06-26-km-vertical-chamonix",
+      "title": "KM Vertical",
+      "description": "Start of the KM Vertical followed by prize-giving ceremony",
       "start_date": "2026-06-26",
       "end_date": "2026-06-26",
-      "start_time": "14:30",
-      "end_time": "00:00",
+      "start_time": "16:00",
+      "end_time": "21:00",
       "location": "Place du Triangle de l'Amitié - Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
@@ -456,26 +396,22 @@
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.marathonmontblanc.fr/en/races/90km-du-mont-blanc",
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/km-vertical",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "90km",
         "chamonix",
-        "finishers",
-        "first",
         "l'amitié",
-        "mont-blanc",
         "place",
         "sport",
-        "the",
-        "triangle"
+        "triangle",
+        "vertical"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-06-27-start-of-the-23km-mont-blanc-chamonix",
-      "title": "Start of the 23km Mont-Blanc",
-      "description": "Start of the 23km race in the Mont-Blanc Marathon.",
+      "slug": "2026-06-27-23km-mont-blanc-chamonix",
+      "title": "23km Mont-Blanc",
+      "description": "Start of the 23km Mont-Blanc",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
       "start_time": "08:00",
@@ -500,56 +436,18 @@
         "chamonix",
         "mont-blanc",
         "paragliding",
-        "sport",
-        "start",
-        "the"
+        "sport"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-06-27-elite-presentation-followed-by-autograph-session-chamonix",
-      "title": "Elite presentation followed by autograph session",
-      "description": "Presentation of elite athletes followed by an autograph session.",
+      "slug": "2026-06-27-the-young-race-chamonix",
+      "title": "The Young Race",
+      "description": "Start of The Young Race",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
-      "start_time": "18:00",
-      "end_time": null,
-      "location": "Place du Triangle de l'Amitié - Chamonix",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.marathonmontblanc.fr/en/coureurs/elites",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "autograph",
-        "chamonix",
-        "cultural",
-        "elite",
-        "followed",
-        "l'amitié",
-        "place",
-        "presentation",
-        "session",
-        "triangle"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2026-06-27-start-of-the-star-duo-chamonix",
-      "title": "Start of the Star Duo",
-      "description": "Start of the Star Duo race.",
-      "start_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "start_time": "19:30",
-      "end_time": "01:00",
+      "start_time": "15:00",
+      "end_time": "19:45",
       "location": "Place du Triangle de l'Amitié - Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
@@ -562,25 +460,24 @@
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://www.marathonmontblanc.fr/en/races/duo-etoile",
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/young-race-marathon",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix",
-        "duo",
         "l'amitié",
         "place",
+        "race",
         "sport",
-        "star",
-        "start",
         "the",
-        "triangle"
+        "triangle",
+        "young"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
-      "slug": "2026-06-28-start-of-the-elite-women-s-42km-mont-blanc-race-chamonix",
-      "title": "Start of the elite women's 42km Mont-Blanc race",
-      "description": "Start of the elite women's race in the Mont-Blanc Marathon.",
+      "slug": "2026-06-28-mont-blanc-42km-chamonix",
+      "title": "Mont-Blanc 42km",
+      "description": "Start of the elite women's 42km Mont-Blanc race",
       "start_date": "2026-06-28",
       "end_date": "2026-06-28",
       "start_time": "06:45",
@@ -602,60 +499,18 @@
       "slug_search_tokens": [
         "42km",
         "chamonix",
-        "elite",
         "l'amitié",
         "mont-blanc",
         "place",
-        "race",
         "sport",
-        "start",
-        "the",
-        "triangle",
-        "women's"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2026-06-28-presentation-of-club-des-sports-de-chamonix-solidarity-bibs-chamonix",
-      "title": "Presentation of Club des Sports de Chamonix solidarity bibs",
-      "description": "Presentation of solidarity bibs by the Club des Sports de Chamonix.",
-      "start_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "start_time": "16:50",
-      "end_time": null,
-      "location": "Place du Triangle de l'Amitié - Chamonix",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "paid",
-      "ticket_price": "€70",
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.marathonmontblanc.fr/en",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "bibs",
-        "chamonix",
-        "club",
-        "cultural",
-        "des",
-        "l'amitié",
-        "place",
-        "presentation",
-        "solidarity",
-        "sports",
         "triangle"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
       "title": "Coupe du Monde d'escalade",
-      "description": "World Cup climbing competition.",
+      "description": "The World Cup of climbing competition.",
       "start_date": "2026-07-10",
       "end_date": "2026-07-12",
       "start_time": null,
@@ -681,7 +536,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -711,41 +566,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
-    },
-    {
-      "slug": "2027-04-01-concert-dub-inc-chamonix",
-      "title": "Concert DUB INC",
-      "description": "A reggae concert featuring the group Dub Inc.",
-      "start_date": "2027-04-01",
-      "end_date": "2027-04-01",
-      "start_time": "19:00",
-      "end_time": null,
-      "location": "Espace Olca, Les Houches",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "music",
-      "languages": [
-        "en"
-      ],
-      "pricing": "paid",
-      "ticket_price": "€39",
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://billetterie-chamonix.mapado.com/en/event/693643-concert-dub-inc",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "concert",
-        "dub",
-        "espace",
-        "houches",
-        "inc",
-        "les",
-        "music",
-        "olca"
-      ],
-      "updated_at": "2026-04-26T16:08:52+00:00"
+      "updated_at": "2026-04-26T18:27:47+00:00"
     }
   ]
 }
