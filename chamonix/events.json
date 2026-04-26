@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T18:27:47+00:00",
+    "generated_at": "2026-04-26T19:58:54+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 17,
+    "count": 53,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -39,7 +39,7 @@
         "les",
         "mort"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-04-26-exposition-tresor-mineral-la-collection-raymond-thibault-chamonix",
@@ -74,7 +74,7 @@
         "thibault",
         "trésor"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-04-26-flea-market-chamonix",
@@ -104,7 +104,7 @@
         "les",
         "market"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-04-26-rail-and-trail-nature-and-heritage-quiz-in-les-bois-de-chamonix-chamonix",
@@ -141,7 +141,7 @@
         "rail",
         "trail"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-04-26-visit-and-workshop-to-create-your-own-butter-chamonix",
@@ -176,7 +176,7 @@
         "workshop",
         "your"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -208,7 +208,37 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-05-03-freeride-day-chamonix",
+      "title": "Freeride Day",
+      "description": "A day dedicated to freeride skiing and snowboarding.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": null,
+      "end_time": null,
+      "location": "Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/highlights/freeride-day",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "day",
+        "freeride",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -244,7 +274,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -277,7 +307,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
@@ -313,7 +343,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -344,7 +374,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -374,7 +404,39 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-06-25-trail-camp-chamonix",
+      "title": "Trail Camp",
+      "description": "Trail Camp for the Mont-Blanc Marathon.",
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-27",
+      "start_time": "09:30",
+      "end_time": "19:00",
+      "location": "Place du Mont-Blanc - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/partenaires/trail-camp",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "camp",
+        "chamonix",
+        "mont-blanc",
+        "place",
+        "sport",
+        "trail"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -406,7 +468,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -438,7 +500,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -472,7 +534,37 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-06-27-star-duo-chamonix",
+      "title": "Star Duo",
+      "description": "Start of the Star Duo race.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "start_time": "19:30",
+      "end_time": "01:00",
+      "location": "Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/duo-etoile",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "duo",
+        "sport",
+        "star"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -505,7 +597,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -536,7 +628,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -566,7 +658,1145 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-07-22-sian-pottok-chamonix",
+      "title": "SIÂN POTTOK",
+      "description": "Performance by SIÂN POTTOK.",
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "start_time": null,
+      "end_time": null,
+      "location": "Lac des Chavants",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chavants",
+        "des",
+        "lac",
+        "music",
+        "pottok",
+        "siân"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-07-24-benin-international-musical-chamonix",
+      "title": "BENIN INTERNATIONAL MUSICAL",
+      "description": "Performance by BENIN INTERNATIONAL MUSICAL.",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "start_time": "20:00",
+      "end_time": null,
+      "location": "Parc Couttet",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "benin",
+        "couttet",
+        "international",
+        "music",
+        "musical",
+        "parc"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-07-26-altin-gun-chamonix",
+      "title": "ALTIN GÜN",
+      "description": "Performance by ALTIN GÜN.",
+      "start_date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "start_time": "20:00",
+      "end_time": null,
+      "location": "Parc Couttet",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://cosmojazzfestival.com/en/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "altin",
+        "couttet",
+        "gün",
+        "music",
+        "parc"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-20-children-s-christmas-grandma-s-storytelling-chamonix",
+      "title": "Children's Christmas: Grandma's Storytelling",
+      "description": "Storytelling session for children with local stories and nature themes, including a complimentary snack.",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "grandma's",
+        "maison",
+        "storytelling"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-20-kraks-listening-to-glaciers-chamonix",
+      "title": "KRAKS, Listening to Glaciers",
+      "description": "A concert featuring musicians from the Kraks Orchestra and glaciologist Ugo Nanni, exploring the sounds of glaciers.",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "start_time": "20:30",
+      "end_time": "22:00",
+      "location": "Espace Michel Croz - EMC2, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "croz",
+        "emc2",
+        "espace",
+        "glaciers",
+        "kraks",
+        "listening",
+        "michel",
+        "music"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-21-children-s-christmas-story-for-all-ages-christmas-soup-chamonix",
+      "title": "Children's Christmas: Story for All Ages 'Christmas Soup'",
+      "description": "A storytelling session featuring a Christmas theme, including a complimentary snack.",
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "'christmas",
+        "ages",
+        "all",
+        "artistes",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "for",
+        "maison",
+        "soup'",
+        "story"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-21-ice-hockey-game-chamonix-vs-briancon-chamonix",
+      "title": "Ice Hockey Game: Chamonix vs Briançon",
+      "description": "Magnus League championship game between Chamonix and Briançon.",
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-21",
+      "start_time": "20:00",
+      "end_time": null,
+      "location": "Richard Bozon Ice Rink, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "varies by seating category",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bozon",
+        "briançon",
+        "chamonix",
+        "game:",
+        "hockey",
+        "ice",
+        "richard",
+        "rink",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-22-music-on-the-slopes-chamonix",
+      "title": "Music on the Slopes",
+      "description": "Join 'Cocktail de Zik', a festive brass band performing at the ski area.",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "location": "Prarion ski area, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "area",
+        "houches",
+        "les",
+        "music",
+        "prarion",
+        "ski",
+        "slopes",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-22-children-s-christmas-wooden-games-chamonix",
+      "title": "Children's Christmas: Wooden Games",
+      "description": "Large wooden board games with Terre de Jeux, including a complimentary snack.",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "games",
+        "maison",
+        "wooden"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-22-family-show-the-little-christmas-ball-chamonix",
+      "title": "Family Show: The Little Christmas Ball",
+      "description": "A family show featuring a wide-ranging, multi-generational repertoire.",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "start_time": "18:00",
+      "end_time": null,
+      "location": "Salle Jean Morel, Servoz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "ball",
+        "christmas",
+        "family",
+        "jean",
+        "little",
+        "morel",
+        "salle",
+        "servoz",
+        "show:",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-23-workshop-let-s-do-some-pyrography-chamonix",
+      "title": "Workshop: Let's Do Some Pyrography!",
+      "description": "A pyrography workshop for adults and children aged 8 and over, with a fee.",
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "location": "Musée Montagnard, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 4.50",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "houches",
+        "les",
+        "let's",
+        "montagnard",
+        "musée",
+        "pyrography!",
+        "some",
+        "workshop",
+        "workshop:"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-23-guided-tour-with-a-crystal-hunter-chamonix",
+      "title": "Guided Tour with a Crystal Hunter",
+      "description": "A guided tour for ages 10 and up, with a fee.",
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "start_time": "14:15",
+      "end_time": "16:15",
+      "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 8",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "cristaux",
+        "crystal",
+        "des",
+        "espace",
+        "guided",
+        "hunter",
+        "musée",
+        "tairraz",
+        "tour",
+        "with",
+        "workshop"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-23-arrival-of-father-christmas-chamonix",
+      "title": "Arrival of Father Christmas",
+      "description": "Welcome Father Christmas at the Argentière Village community centre.",
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "start_time": "16:00",
+      "end_time": "20:30",
+      "location": "Place du Village, Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "arrival",
+        "christmas",
+        "cultural",
+        "father",
+        "place",
+        "village"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-23-frosty-night-chamonix",
+      "title": "Frosty Night",
+      "description": "Group activities and games for ages 6 and up, with prizes provided.",
+      "start_date": "2026-12-23",
+      "end_date": "2026-12-23",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "location": "Les Houches Ice Rink",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "family",
+        "frosty",
+        "houches",
+        "ice",
+        "les",
+        "night",
+        "rink"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-24-landscape-reading-chamonix",
+      "title": "Landscape Reading",
+      "description": "Guided landscape reading from different viewpoints with a mountain guide.",
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "location": "Les Houches Ski Area",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "area",
+        "houches",
+        "landscape",
+        "les",
+        "outdoor",
+        "reading",
+        "ski"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-24-nature-walk-with-storytelling-chamonix",
+      "title": "Nature Walk with Storytelling",
+      "description": "A nature walk combined with storytelling, with a fee.",
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "location": "Maison du Lieutenant, Servoz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 8",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "lieutenant",
+        "maison",
+        "nature",
+        "outdoor",
+        "servoz",
+        "storytelling",
+        "walk",
+        "with"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-24-christmas-parade-chamonix",
+      "title": "Christmas Parade",
+      "description": "A grand Christmas parade winding through the pedestrian streets of Chamonix.",
+      "start_date": "2026-12-24",
+      "end_date": "2026-12-24",
+      "start_time": "17:00",
+      "end_time": null,
+      "location": "Place du Triangle de l'Amitié, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "christmas",
+        "cultural",
+        "l'amitié",
+        "parade",
+        "place",
+        "triangle"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-25-children-s-christmas-the-story-bar-chamonix",
+      "title": "Children's Christmas: The Story Bar",
+      "description": "Storytelling, theatre, and shadow play for children aged 4 and up.",
+      "start_date": "2026-12-25",
+      "end_date": "2026-12-25",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "bar",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "maison",
+        "story",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-25-night-skiing-at-la-poya-chamonix",
+      "title": "Night Skiing at La Poya",
+      "description": "Enjoy night skiing with a torchlight descent and free skiing.",
+      "start_date": "2026-12-25",
+      "end_date": "2026-12-25",
+      "start_time": "17:30",
+      "end_time": "21:00",
+      "location": "La Poya ski area, Le Buet, Vallorcine",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 12 (ski lift + one drink)",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "area",
+        "buet",
+        "night",
+        "outdoor",
+        "poya",
+        "ski",
+        "skiing",
+        "vallorcine"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-25-torchlight-descent-chamonix",
+      "title": "Torchlight Descent",
+      "description": "A torchlight descent accompanied by musical entertainment.",
+      "start_date": "2026-12-25",
+      "end_date": "2026-12-25",
+      "start_time": "17:30",
+      "end_time": null,
+      "location": "Tourchet ski area, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "area",
+        "descent",
+        "houches",
+        "les",
+        "outdoor",
+        "ski",
+        "torchlight",
+        "tourchet"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-musical-fridays-chamonix",
+      "title": "Musical Fridays",
+      "description": "Live performance by 'Smart Melodies' featuring pop, soul, funk, and jazz covers.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "08:30",
+      "end_time": null,
+      "location": "At the bottom of the Prarion cable car, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bottom",
+        "cable",
+        "car",
+        "fridays",
+        "houches",
+        "les",
+        "music",
+        "musical",
+        "prarion",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-animal-tracks-and-tracking-outing-chamonix",
+      "title": "Animal Tracks and Tracking Outing",
+      "description": "Learn about animal tracks and tracking in the wild.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "location": "Maison du Lieutenant, Servoz",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 8 (Adult), € 4 (Child)",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "and",
+        "animal",
+        "lieutenant",
+        "maison",
+        "outing",
+        "servoz",
+        "tracking",
+        "tracks",
+        "workshop"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-sledding-descent-chamonix",
+      "title": "Sledding Descent",
+      "description": "Experience a traditional sledding descent before the slopes close.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "16:00",
+      "end_time": null,
+      "location": "Meet at the bottom of the Prarion cable car, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 10 (excluding ski pass)",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bottom",
+        "cable",
+        "car",
+        "descent",
+        "houches",
+        "les",
+        "meet",
+        "outdoor",
+        "prarion",
+        "sledding",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-laser-shooting-initiation-chamonix",
+      "title": "Laser Shooting Initiation",
+      "description": "Learn the basics of laser shooting in 30-minute slots.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "location": "Community Hall, Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "community",
+        "hall",
+        "initiation",
+        "laser",
+        "shooting",
+        "workshop"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-children-s-christmas-introductory-magic-workshop-chamonix",
+      "title": "Children's Christmas: Introductory Magic Workshop",
+      "description": "A magic workshop for children aged 6 and up, with complimentary snacks.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "introductory",
+        "magic",
+        "maison",
+        "workshop"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-26-christmas-concerts-chamonix",
+      "title": "Christmas Concerts",
+      "description": "Christmas songs performed by 'Christmas Diamonds', featuring women in red.",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "location": "Place du Triangle de l'Amitié, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.com/evenements/la-magie-de-noel-dans-la-vallee-de-chamonix",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "christmas",
+        "concerts",
+        "l'amitié",
+        "music",
+        "place",
+        "triangle"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-27-children-s-christmas-the-little-ball-chamonix",
+      "title": "Children's Christmas: The Little Ball",
+      "description": "A small ball for young audiences with complimentary snacks.",
+      "start_date": "2026-12-27",
+      "end_date": "2026-12-27",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "ball",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "little",
+        "maison",
+        "the"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-27-hockey-gala-match-chamonix-vs-mont-blanc-hockey-chamonix",
+      "title": "Hockey Gala Match: Chamonix vs Mont-Blanc Hockey",
+      "description": "A gala hockey match between Chamonix and Mont-Blanc Hockey.",
+      "start_date": "2026-12-27",
+      "end_date": "2026-12-27",
+      "start_time": "18:30",
+      "end_time": "22:30",
+      "location": "Richard Bozon Ice Rink, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 8 (Adults), € 5 (Children), free for under 5s",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bozon",
+        "chamonix",
+        "gala",
+        "hockey",
+        "ice",
+        "match:",
+        "mont-blanc",
+        "richard",
+        "rink",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-29-chamonix-ice-show-chamonix",
+      "title": "Chamonix Ice Show",
+      "description": "An ice skating show produced by the Chamonix Figure Skating Club.",
+      "start_date": "2026-12-29",
+      "end_date": "2026-12-29",
+      "start_time": "20:00",
+      "end_time": "23:30",
+      "location": "Richard Bozon Ice Rink, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 20 to € 60",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "bozon",
+        "chamonix",
+        "cultural",
+        "ice",
+        "richard",
+        "rink",
+        "show"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-30-workshop-birds-in-winter-chamonix",
+      "title": "Workshop: Birds in Winter",
+      "description": "Discover the habits of birds and make seed balls.",
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-30",
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "location": "Maison de Village d'Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "workshop",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "birds",
+        "d'argentière",
+        "maison",
+        "village",
+        "winter",
+        "workshop",
+        "workshop:"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-30-family-show-chamonix",
+      "title": "Family show",
+      "description": "Magic show by David Coven suitable for all ages.",
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-30",
+      "start_time": "18:00",
+      "end_time": null,
+      "location": "Espace Animation, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "animation",
+        "espace",
+        "family",
+        "houches",
+        "les",
+        "show"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-31-nature-outing-introduction-to-wildlife-tracks-and-signs-chamonix",
+      "title": "Nature outing: Introduction to wildlife tracks and signs",
+      "description": "An outing to learn about wildlife tracks and signs.",
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "start_time": "09:30",
+      "end_time": "13:00",
+      "location": "Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€8",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "and",
+        "houches",
+        "introduction",
+        "les",
+        "nature",
+        "outdoor",
+        "outing:",
+        "signs",
+        "tracks",
+        "wildlife"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-12-31-children-s-christmas-frosty-tales-chamonix",
+      "title": "Children's Christmas: Frosty Tales",
+      "description": "Frosty tales that melt in the warmth of your ears.",
+      "start_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "location": "Maison des Artistes, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "family",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/From_20th_December_to_4th_January_EN.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "artistes",
+        "chamonix",
+        "children's",
+        "christmas:",
+        "des",
+        "family",
+        "frosty",
+        "maison",
+        "tales"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T18:27:47+00:00",
+    "generated_at": "2026-04-26T19:58:54+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 3,
+    "count": 4,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -38,7 +38,37 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
+    },
+    {
+      "slug": "2026-05-03-freeride-day-chamonix",
+      "title": "Freeride Day",
+      "description": "A day dedicated to freeride skiing and snowboarding.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": null,
+      "end_time": null,
+      "location": "Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/highlights/freeride-day",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "day",
+        "freeride",
+        "sport"
+      ],
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -74,7 +104,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -104,7 +134,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-26T18:27:47+00:00"
+      "updated_at": "2026-04-26T19:58:54+00:00"
     }
   ]
 }
