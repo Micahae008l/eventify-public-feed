@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T13:34:06+00:00",
+    "generated_at": "2026-04-27T22:04:29+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 7,
+    "count": 5,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -11,7 +11,7 @@
     {
       "slug": "2026-04-28-international-cup-u13-aaa-boys-chamonix",
       "title": "2026 International Cup U13 AAA Boys",
-      "description": "An international cup tournament for U13 AAA boys' teams.",
+      "description": "A youth football tournament for U13 AAA boys.",
       "start_date": "2026-04-28",
       "end_date": "2026-04-28",
       "start_time": null,
@@ -40,12 +40,12 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
+      "updated_at": "2026-04-27T22:04:29+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
       "title": "Nature outing - Gourmet forest",
-      "description": "A guided nature outing focusing on gourmet forest experiences.",
+      "description": "A guided nature outing focusing on gourmet aspects of the forest.",
       "start_date": "2026-04-28",
       "end_date": "2026-04-28",
       "start_time": null,
@@ -72,7 +72,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
+      "updated_at": "2026-04-27T22:04:29+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -89,9 +89,9 @@
       "languages": [
         "en"
       ],
-      "pricing": "free",
+      "pricing": "unknown",
       "ticket_price": null,
-      "requires_registration": false,
+      "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
       "official_source_url": "https://www.chamonix.net/english/events/open-mic-servoz",
@@ -104,73 +104,39 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
+      "updated_at": "2026-04-27T22:04:29+00:00"
     },
     {
-      "slug": "2026-05-03-freeride-day-chamonix",
-      "title": "Freeride Day",
-      "description": "A day dedicated to freeride skiing and snowboarding.",
+      "slug": "2026-05-03-le-freeride-day-chamonix",
+      "title": "Le Freeride Day",
+      "description": "Come celebrate the end of the ski season at Grands Montets on Sunday, May 3, 2026. Music, skiing, entertainment, bars… This day is included in valid season, annual, and stay passes.",
       "start_date": "2026-05-03",
       "end_date": "2026-05-03",
       "start_time": null,
       "end_time": null,
-      "location": "Argentière",
+      "location": "Les Grands Montets",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "sport",
       "languages": [
-        "en"
+        "fr"
       ],
       "pricing": "unknown",
       "ticket_price": null,
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/highlights/freeride-day",
+      "official_source_url": "https://www.chamonix.net/english/events/le-freeride-day",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "argentière",
         "day",
         "freeride",
+        "grands",
+        "les",
+        "montets",
         "sport"
       ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
-    },
-    {
-      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
-      "title": "EMC2 Theatre cultural season",
-      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
-      "start_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": false,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.seechamonix.com/events/",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "74400",
-        "chamonix",
-        "croz",
-        "cultural",
-        "emc2",
-        "espace",
-        "haute-savoie",
-        "michel",
-        "season",
-        "theatre"
-      ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
+      "updated_at": "2026-04-27T22:04:29+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -200,39 +166,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
-    },
-    {
-      "slug": "2026-12-01-chamonix-market-day-chamonix",
-      "title": "Chamonix Market Day",
-      "description": "",
-      "start_date": "2026-12-01",
-      "end_date": "2026-12-01",
-      "start_time": null,
-      "end_time": null,
-      "location": "Place du Mont Blanc, Chamonix",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": null,
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://www.chamonix.net/english/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "blanc",
-        "chamonix",
-        "day",
-        "market",
-        "mont",
-        "place"
-      ],
-      "updated_at": "2026-04-27T13:34:06+00:00"
+      "updated_at": "2026-04-27T22:04:29+00:00"
     }
   ]
 }
