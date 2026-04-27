@@ -1,13 +1,45 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T09:55:21+00:00",
+    "generated_at": "2026-04-27T10:24:55+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 4,
+    "count": 6,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
   "events": [
+    {
+      "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
+      "title": "Nature outing - Gourmet forest",
+      "description": "A guided nature outing focusing on gourmet forest experiences.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "forest",
+        "gourmet",
+        "nature",
+        "outdoor",
+        "outing"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
@@ -38,7 +70,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -68,7 +100,7 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -104,7 +136,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -134,7 +166,39 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
+    {
+      "slug": "2026-12-01-chamonix-market-day-chamonix",
+      "title": "Chamonix Market Day",
+      "description": "",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "start_time": null,
+      "end_time": null,
+      "location": "Place du Mont Blanc, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": null,
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "blanc",
+        "chamonix",
+        "day",
+        "market",
+        "mont",
+        "place"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
     }
   ]
 }

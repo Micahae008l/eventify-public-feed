@@ -1,13 +1,111 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T09:55:21+00:00",
+    "generated_at": "2026-04-27T10:24:55+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 48,
+    "count": 53,
     "schema_version": "1.0.0",
     "export_filter": null
   },
   "events": [
+    {
+      "slug": "2026-04-28-international-cup-u13-aaa-boys-chamonix",
+      "title": "2026 International Cup U13 AAA Boys",
+      "description": "An international cup tournament for U13 AAA boys' teams.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/things-to-see-and-do/indoors/hockey-games/2026-international-cup-u13-aaa-boys",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "2026",
+        "aaa",
+        "boys",
+        "chamonix-mont-blanc",
+        "cup",
+        "international",
+        "sport",
+        "u13"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
+    {
+      "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
+      "title": "John Nilsen Piano Concert",
+      "description": "A piano concert featuring John Nilsen.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "concert",
+        "john",
+        "music",
+        "nilsen",
+        "piano"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
+    {
+      "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
+      "title": "Nature outing - Gourmet forest",
+      "description": "A guided nature outing focusing on gourmet forest experiences.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "forest",
+        "gourmet",
+        "nature",
+        "outdoor",
+        "outing"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
@@ -38,7 +136,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -68,7 +166,7 @@
         "freeride",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -104,7 +202,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -137,7 +235,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-05-27-emc2-theatre-cultural-season-chamonix",
@@ -173,7 +271,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -204,7 +302,39 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
+    {
+      "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
+      "title": "Spectacle très jeune public - (é)Mouvoir",
+      "description": "",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-14",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": null,
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "(é)mouvoir",
+        "chamonix-mont-blanc",
+        "jeune",
+        "public",
+        "spectacle",
+        "très"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -234,7 +364,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-25-trail-camp-chamonix",
@@ -266,7 +396,7 @@
         "sport",
         "trail"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -298,7 +428,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -330,7 +460,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -364,7 +494,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -394,7 +524,7 @@
         "sport",
         "star"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -427,7 +557,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -458,7 +588,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -488,7 +618,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-22-sian-pottok-chamonix",
@@ -520,7 +650,7 @@
         "pottok",
         "siân"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-24-benin-international-musical-chamonix",
@@ -552,7 +682,7 @@
         "musical",
         "parc"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-07-26-altin-gun-chamonix",
@@ -583,7 +713,39 @@
         "music",
         "parc"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
+    },
+    {
+      "slug": "2026-12-01-chamonix-market-day-chamonix",
+      "title": "Chamonix Market Day",
+      "description": "",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "start_time": null,
+      "end_time": null,
+      "location": "Place du Mont Blanc, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": null,
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix.net/english/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "blanc",
+        "chamonix",
+        "day",
+        "market",
+        "mont",
+        "place"
+      ],
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-20-children-s-christmas-grandma-s-storytelling-chamonix",
@@ -618,7 +780,7 @@
         "maison",
         "storytelling"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-20-kraks-listening-to-glaciers-chamonix",
@@ -653,7 +815,7 @@
         "michel",
         "music"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-21-children-s-christmas-story-for-all-ages-christmas-soup-chamonix",
@@ -692,7 +854,7 @@
         "soup'",
         "story"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-21-ice-hockey-game-chamonix-vs-briancon-chamonix",
@@ -727,7 +889,7 @@
         "rink",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-22-music-on-the-slopes-chamonix",
@@ -761,7 +923,7 @@
         "slopes",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-22-children-s-christmas-wooden-games-chamonix",
@@ -796,7 +958,7 @@
         "maison",
         "wooden"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-22-family-show-the-little-christmas-ball-chamonix",
@@ -832,7 +994,7 @@
         "show:",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-23-workshop-let-s-do-some-pyrography-chamonix",
@@ -867,7 +1029,7 @@
         "workshop",
         "workshop:"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-23-guided-tour-with-a-crystal-hunter-chamonix",
@@ -905,7 +1067,7 @@
         "with",
         "workshop"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-23-arrival-of-father-christmas-chamonix",
@@ -938,7 +1100,7 @@
         "place",
         "village"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-23-frosty-night-chamonix",
@@ -971,7 +1133,7 @@
         "night",
         "rink"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-24-landscape-reading-chamonix",
@@ -1004,7 +1166,7 @@
         "reading",
         "ski"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-24-nature-walk-with-storytelling-chamonix",
@@ -1038,7 +1200,7 @@
         "walk",
         "with"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-24-christmas-parade-chamonix",
@@ -1071,7 +1233,7 @@
         "place",
         "triangle"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-25-children-s-christmas-the-story-bar-chamonix",
@@ -1107,7 +1269,7 @@
         "story",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-25-night-skiing-at-la-poya-chamonix",
@@ -1141,7 +1303,7 @@
         "skiing",
         "vallorcine"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-25-torchlight-descent-chamonix",
@@ -1175,7 +1337,7 @@
         "torchlight",
         "tourchet"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-musical-fridays-chamonix",
@@ -1211,7 +1373,7 @@
         "prarion",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-animal-tracks-and-tracking-outing-chamonix",
@@ -1246,7 +1408,7 @@
         "tracks",
         "workshop"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-sledding-descent-chamonix",
@@ -1283,7 +1445,7 @@
         "sledding",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-laser-shooting-initiation-chamonix",
@@ -1316,7 +1478,7 @@
         "shooting",
         "workshop"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-children-s-christmas-introductory-magic-workshop-chamonix",
@@ -1352,7 +1514,7 @@
         "maison",
         "workshop"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-26-christmas-concerts-chamonix",
@@ -1385,7 +1547,7 @@
         "place",
         "triangle"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-27-children-s-christmas-the-little-ball-chamonix",
@@ -1421,7 +1583,7 @@
         "maison",
         "the"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-27-hockey-gala-match-chamonix-vs-mont-blanc-hockey-chamonix",
@@ -1457,7 +1619,7 @@
         "rink",
         "sport"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-29-chamonix-ice-show-chamonix",
@@ -1490,7 +1652,7 @@
         "rink",
         "show"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-30-workshop-birds-in-winter-chamonix",
@@ -1523,7 +1685,7 @@
         "workshop",
         "workshop:"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-30-family-show-chamonix",
@@ -1555,7 +1717,7 @@
         "les",
         "show"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-31-nature-outing-introduction-to-wildlife-tracks-and-signs-chamonix",
@@ -1591,7 +1753,7 @@
         "tracks",
         "wildlife"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     },
     {
       "slug": "2026-12-31-children-s-christmas-frosty-tales-chamonix",
@@ -1626,7 +1788,7 @@
         "maison",
         "tales"
       ],
-      "updated_at": "2026-04-27T09:55:21+00:00"
+      "updated_at": "2026-04-27T10:24:55+00:00"
     }
   ]
 }
