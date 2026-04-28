@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T10:25:32+00:00",
+    "generated_at": "2026-04-28T14:09:12+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 7,
+    "count": 8,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -11,12 +11,12 @@
     {
       "slug": "2026-04-28-international-cup-u13-aaa-boys-chamonix",
       "title": "2026 International Cup U13 AAA Boys",
-      "description": "A youth football tournament for U13 AAA boys.",
+      "description": "An international ice hockey tournament for U13 AAA Boys teams.",
       "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
+      "end_date": "2026-05-02",
       "start_time": null,
       "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
+      "location": "R. Bozon ice rink, Chamonix-Mont-Blanc",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "sport",
@@ -34,81 +34,21 @@
         "2026",
         "aaa",
         "boys",
+        "bozon",
         "chamonix-mont-blanc",
         "cup",
+        "ice",
         "international",
+        "rink",
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
-    },
-    {
-      "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
-      "title": "Conférence - La montagne en partage",
-      "description": "A conference discussing the sharing of mountain experiences.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "conférence",
-        "cultural",
-        "montagne",
-        "partage"
-      ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
-    },
-    {
-      "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
-      "title": "John Nilsen Piano Concert",
-      "description": "A piano concert featuring John Nilsen.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "music",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "concert",
-        "john",
-        "music",
-        "nilsen",
-        "piano"
-      ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
+      "updated_at": "2026-04-28T14:09:12+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
       "title": "Nature outing - Gourmet forest",
-      "description": "A guided nature outing focusing on gourmet aspects of the forest.",
+      "description": "An outing focused on exploring the forest and its gourmet offerings.",
       "start_date": "2026-04-28",
       "end_date": "2026-04-28",
       "start_time": null,
@@ -135,7 +75,70 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
+      "updated_at": "2026-04-28T14:09:12+00:00"
+    },
+    {
+      "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
+      "title": "Conférence - La montagne en partage",
+      "description": "A conference discussing shared experiences in the mountains.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-29",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "conférence",
+        "cultural",
+        "montagne",
+        "partage"
+      ],
+      "updated_at": "2026-04-28T14:09:12+00:00"
+    },
+    {
+      "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
+      "title": "John Nilsen Piano Concert",
+      "description": "A piano concert featuring John Nilsen.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "concert",
+        "john",
+        "music",
+        "nilsen",
+        "piano"
+      ],
+      "updated_at": "2026-04-28T14:09:12+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -152,9 +155,9 @@
       "languages": [
         "en"
       ],
-      "pricing": "unknown",
+      "pricing": "free",
       "ticket_price": null,
-      "requires_registration": null,
+      "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
       "official_source_url": "https://www.chamonix.net/english/events/open-mic-servoz",
@@ -167,7 +170,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
+      "updated_at": "2026-04-28T14:09:12+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -186,7 +189,7 @@
       ],
       "pricing": "unknown",
       "ticket_price": null,
-      "requires_registration": null,
+      "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
       "official_source_url": "https://www.chamonix.net/english/events/le-freeride-day",
@@ -199,12 +202,48 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
+      "updated_at": "2026-04-28T14:09:12+00:00"
+    },
+    {
+      "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
+      "title": "EMC2 Theatre cultural season",
+      "description": "Chamonix's theatre, EMC2 is turning on the spotlights for a season of culture shows and events.",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "location": "Espace Michel Croz - EMC2, Chamonix, 74400 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "74400",
+        "chamonix",
+        "croz",
+        "cultural",
+        "emc2",
+        "espace",
+        "haute-savoie",
+        "michel",
+        "season",
+        "theatre"
+      ],
+      "updated_at": "2026-04-28T14:09:12+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
       "title": "Cosmojazz Festival",
-      "description": "A music festival featuring various artists in a mountain setting.",
+      "description": "A festival celebrating jazz music in the mountains.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
@@ -229,7 +268,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-28T10:25:32+00:00"
+      "updated_at": "2026-04-28T14:09:12+00:00"
     }
   ]
 }
