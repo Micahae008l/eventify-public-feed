@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T22:04:29+00:00",
+    "generated_at": "2026-04-28T06:08:01+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 5,
+    "count": 6,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -40,7 +40,38 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-27T22:04:29+00:00"
+      "updated_at": "2026-04-28T06:08:01+00:00"
+    },
+    {
+      "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
+      "title": "Conférence - La montagne en partage",
+      "description": "A conference discussing the sharing of mountain experiences.",
+      "start_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/events",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "conférence",
+        "cultural",
+        "montagne",
+        "partage"
+      ],
+      "updated_at": "2026-04-28T06:08:01+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -72,7 +103,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-27T22:04:29+00:00"
+      "updated_at": "2026-04-28T06:08:01+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -104,7 +135,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-27T22:04:29+00:00"
+      "updated_at": "2026-04-28T06:08:01+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -136,7 +167,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-27T22:04:29+00:00"
+      "updated_at": "2026-04-28T06:08:01+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -166,7 +197,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-27T22:04:29+00:00"
+      "updated_at": "2026-04-28T06:08:01+00:00"
     }
   ]
 }
