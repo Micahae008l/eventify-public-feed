@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T16:41:50+00:00",
+    "generated_at": "2026-04-28T21:31:01+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 15,
+    "count": 18,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -43,7 +43,7 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -75,7 +75,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -107,7 +107,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -143,7 +143,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -176,7 +176,40 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
+    },
+    {
+      "slug": "2026-05-27-e-mouvoir-chamonix",
+      "title": "(é)Mouvoir",
+      "description": "A performance event with multiple dates.",
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "start_time": "09:30",
+      "end_time": "11:15",
+      "location": "Espace Michel Croz - EMC2, Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": "other dates",
+      "official_source_url": "https://billetterie-chamonix.mapado.com/en/event/558986-e-mouvoir",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "(é)mouvoir",
+        "chamonix-mont-blanc",
+        "croz",
+        "cultural",
+        "emc2",
+        "espace",
+        "michel"
+      ],
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -207,7 +240,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -245,7 +278,7 @@
         "tourist",
         "triangle"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -277,7 +310,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -309,7 +342,39 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
+    },
+    {
+      "slug": "2026-06-27-mont-blanc-10km-chamonix",
+      "title": "Mont-Blanc 10km",
+      "description": "Start of the Mont-Blanc 10km race.",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "start_time": "10:30",
+      "end_time": "13:00",
+      "location": "Paragliding area - Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "sport",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.marathonmontblanc.fr/en/races/10km-du-mont-blanc",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "10km",
+        "area",
+        "chamonix",
+        "mont-blanc",
+        "paragliding",
+        "sport"
+      ],
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
@@ -340,7 +405,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -374,7 +439,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -407,7 +472,7 @@
         "star",
         "triangle"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -440,7 +505,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -471,7 +536,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -502,7 +567,41 @@
         "festival",
         "valley"
       ],
-      "updated_at": "2026-04-28T16:41:50+00:00"
+      "updated_at": "2026-04-28T21:31:01+00:00"
+    },
+    {
+      "slug": "2027-04-01-concert-dub-inc-chamonix",
+      "title": "Concert DUB INC",
+      "description": "A reggae concert featuring the group Dub Inc.",
+      "start_date": "2027-04-01",
+      "end_date": "2027-04-01",
+      "start_time": "19:00",
+      "end_time": null,
+      "location": "Espace Olca, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€39",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://billetterie-chamonix.mapado.com/en/event/693643-concert-dub-inc",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "concert",
+        "dub",
+        "espace",
+        "houches",
+        "inc",
+        "les",
+        "music",
+        "olca"
+      ],
+      "updated_at": "2026-04-28T21:31:01+00:00"
     }
   ]
 }
