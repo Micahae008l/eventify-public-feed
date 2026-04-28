@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T09:56:11+00:00",
+    "generated_at": "2026-04-28T10:25:32+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 16,
+    "count": 18,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -40,7 +40,7 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
@@ -71,7 +71,7 @@
         "montagne",
         "partage"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
@@ -103,7 +103,7 @@
         "nilsen",
         "piano"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -135,7 +135,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -167,7 +167,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -199,7 +199,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -232,7 +232,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -263,7 +263,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -295,7 +295,42 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
+    },
+    {
+      "slug": "2026-06-21-fete-de-la-musique-chamonix",
+      "title": "Fête de la Musique",
+      "description": "A national celebration of music, taking place on midsummer on 21st June, Chamonix fully embraces the party. Live music is played almost anywhere; in hotels, on the street, in parks. All the bars have a late licence and host their own mini events. You'll find the best party on Rue des Moulins, a narrow side-street lined with bars that turns into a carnival on this special evening.",
+      "start_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix (multiple venues including Rue des Moulins)",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": null,
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix-prestige.com/en/chamonix/annual-events-in-chamonix",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "(multiple",
+        "chamonix",
+        "des",
+        "fête",
+        "including",
+        "moulins)",
+        "musique",
+        "rue",
+        "venues"
+      ],
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -325,7 +360,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -357,7 +392,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -389,7 +424,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -423,7 +458,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -456,7 +491,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -487,7 +522,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -517,7 +552,42 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-28T09:56:11+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
+    },
+    {
+      "slug": "2026-08-15-fete-des-guides-chamonix",
+      "title": "Fête des Guides",
+      "description": "Chamonix honours and celebrates the wonderful mountain guides. An official ceremony in the town centre welcomes new guides and remembers lost ones, and is followed by various entertainments. The finale is a party at Lac de Gaillands lake, starting with face painting and games for children and then carrying on into the night with live music, beer tents and food stalls.",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "start_time": null,
+      "end_time": null,
+      "location": "Chamonix town centre and Lac de Gaillands",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": null,
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.chamonix-prestige.com/en/chamonix/annual-events-in-chamonix",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "and",
+        "centre",
+        "chamonix",
+        "des",
+        "fête",
+        "gaillands",
+        "guides",
+        "lac",
+        "town"
+      ],
+      "updated_at": "2026-04-28T10:25:32+00:00"
     }
   ]
 }

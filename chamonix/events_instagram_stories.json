@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T09:56:12+00:00",
+    "generated_at": "2026-04-28T10:25:32+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 7,
@@ -40,7 +40,7 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
@@ -71,7 +71,7 @@
         "montagne",
         "partage"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
@@ -103,7 +103,7 @@
         "nilsen",
         "piano"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -135,7 +135,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -167,7 +167,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -199,7 +199,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -229,7 +229,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-28T09:56:12+00:00"
+      "updated_at": "2026-04-28T10:25:32+00:00"
     }
   ]
 }
