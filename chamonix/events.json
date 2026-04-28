@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T14:09:12+00:00",
+    "generated_at": "2026-04-28T15:09:46+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 19,
+    "count": 15,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -43,135 +43,7 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
-    },
-    {
-      "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
-      "title": "Nature outing - Gourmet forest",
-      "description": "An outing focused on exploring the forest and its gourmet offerings.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "start_time": null,
-      "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "outdoor",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/calendar-of-events/nature-outing-gourmet-forest",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "forest",
-        "gourmet",
-        "nature",
-        "outdoor",
-        "outing"
-      ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
-    },
-    {
-      "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
-      "title": "Conférence - La montagne en partage",
-      "description": "A conference discussing shared experiences in the mountains.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-29",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "cultural",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "conférence",
-        "cultural",
-        "montagne",
-        "partage"
-      ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
-    },
-    {
-      "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
-      "title": "John Nilsen Piano Concert",
-      "description": "A piano concert featuring John Nilsen.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "start_time": "18:00",
-      "end_time": "19:30",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "music",
-      "languages": [
-        "en"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "chamonix-mont-blanc",
-        "concert",
-        "john",
-        "music",
-        "nilsen",
-        "piano"
-      ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
-    },
-    {
-      "slug": "2026-04-28-a-cappella-concert-du-ch-ur-des-chambelles-chamonix",
-      "title": "A Cappella - Concert du chœur des Chambelles",
-      "description": "A concert by the A Cappella choir of Chambelles.",
-      "start_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "start_time": "19:00",
-      "end_time": "21:00",
-      "location": "Chamonix-Mont-Blanc",
-      "city_slug": "chamonix",
-      "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "music",
-      "languages": [
-        "fr"
-      ],
-      "pricing": "unknown",
-      "ticket_price": null,
-      "requires_registration": null,
-      "is_recurring": false,
-      "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/events",
-      "instagram_post_url": null,
-      "slug_search_tokens": [
-        "cappella",
-        "chambelles",
-        "chamonix-mont-blanc",
-        "chœur",
-        "concert",
-        "des",
-        "music"
-      ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -203,7 +75,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -235,7 +107,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -271,7 +143,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -304,12 +176,12 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
       "title": "Chamonix Film Festival",
-      "description": "A festival showcasing a variety of films.",
+      "description": "An annual film festival showcasing various films.",
       "start_date": "2026-06-10",
       "end_date": "2026-06-14",
       "start_time": null,
@@ -335,42 +207,50 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
       "title": "Marathon du Mont-Blanc",
-      "description": "A marathon event through the stunning Mont-Blanc region.",
+      "description": "The MONT-BLANC MARATHON will take place from 27 to 30 JUNE 2024. Registrations for the 10km du Mont-Blanc, KM Vertical, Young Race Marathon and Mini Cross.",
       "start_date": "2026-06-25",
       "end_date": "2026-06-28",
       "start_time": null,
       "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
+      "location": "Start & finish near the Tourist Office, Place de Triangle, Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "sport",
       "languages": [
         "en"
       ],
-      "pricing": "paid",
+      "pricing": "unknown",
       "ticket_price": null,
-      "requires_registration": null,
+      "requires_registration": true,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/highlights/marathon-du-mont-blanc",
+      "official_source_url": "https://www.chamonix.net/english/events/marathon-du-mont-blanc",
       "instagram_post_url": null,
       "slug_search_tokens": [
-        "chamonix-mont-blanc",
+        "chamonix",
+        "finish",
         "marathon",
         "mont-blanc",
-        "sport"
+        "near",
+        "office",
+        "place",
+        "sport",
+        "start",
+        "the",
+        "tourist",
+        "triangle"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
       "title": "KM Vertical",
-      "description": "Start of the KM Vertical and prize-giving ceremony",
+      "description": "Start of the KM Vertical followed by prize-giving ceremony",
       "start_date": "2026-06-26",
       "end_date": "2026-06-26",
       "start_time": "16:00",
@@ -397,12 +277,12 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
       "title": "23km Mont-Blanc",
-      "description": "Start of the 23km Mont-Blanc race",
+      "description": "Start of the 23km Mont-Blanc",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
       "start_time": "08:00",
@@ -429,12 +309,12 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
       "title": "Mini-Cross",
-      "description": "Start of the Mini-Cross race",
+      "description": "Start of the Mini-Cross - 800m",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
       "start_time": "14:00",
@@ -446,7 +326,7 @@
       "languages": [
         "en"
       ],
-      "pricing": "unknown",
+      "pricing": "paid",
       "ticket_price": null,
       "requires_registration": null,
       "is_recurring": false,
@@ -460,7 +340,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -494,17 +374,17 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
       "title": "Star Duo",
-      "description": "Start of the Star Duo race",
+      "description": "Start of the Star Duo",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
       "start_time": "19:30",
       "end_time": "01:00",
-      "location": "Chamonix",
+      "location": "Place du Triangle de l'Amitié - Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "sport",
@@ -521,10 +401,13 @@
       "slug_search_tokens": [
         "chamonix",
         "duo",
+        "l'amitié",
+        "place",
         "sport",
-        "star"
+        "star",
+        "triangle"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -557,12 +440,12 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
       "title": "Coupe du Monde d'escalade",
-      "description": "World Cup climbing competition.",
+      "description": "The World Cup of climbing competition.",
       "start_date": "2026-07-10",
       "end_date": "2026-07-12",
       "start_time": null,
@@ -588,20 +471,20 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
-      "title": "Cosmojazz Festival",
-      "description": "A festival celebrating jazz music in the mountains.",
+      "title": "Cosmojazz Festival 2026",
+      "description": "The Cosmojazz Festival invites you to celebrate its 16th edition.",
       "start_date": "2026-07-20",
       "end_date": "2026-07-25",
       "start_time": null,
       "end_time": null,
-      "location": "Chamonix-Mont-Blanc",
+      "location": "Chamonix-Mont-Blanc valley",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
-      "event_type": "music",
+      "event_type": "festival",
       "languages": [
         "en"
       ],
@@ -610,15 +493,16 @@
       "requires_registration": null,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/agenda/highlights/cosmojazz-festival",
+      "official_source_url": "https://cosmojazzfestival.com/en/news/rendez-vous-from-july-20-to-25-2026",
       "instagram_post_url": null,
       "slug_search_tokens": [
+        "2026",
         "chamonix-mont-blanc",
         "cosmojazz",
         "festival",
-        "music"
+        "valley"
       ],
-      "updated_at": "2026-04-28T14:09:12+00:00"
+      "updated_at": "2026-04-28T15:09:46+00:00"
     }
   ]
 }
