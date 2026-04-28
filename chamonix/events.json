@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T07:48:10+00:00",
+    "generated_at": "2026-04-28T09:56:11+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 16,
@@ -40,7 +40,7 @@
         "sport",
         "u13"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-04-28-conference-la-montagne-en-partage-chamonix",
@@ -71,7 +71,7 @@
         "montagne",
         "partage"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-04-28-john-nilsen-piano-concert-chamonix",
@@ -103,7 +103,7 @@
         "nilsen",
         "piano"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-04-28-nature-outing-gourmet-forest-chamonix",
@@ -135,7 +135,7 @@
         "outdoor",
         "outing"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -167,7 +167,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -199,7 +199,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -232,7 +232,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -263,7 +263,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-10-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -295,7 +295,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -325,7 +325,7 @@
         "mont-blanc",
         "sport"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -357,7 +357,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -389,7 +389,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -423,7 +423,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -456,7 +456,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -487,7 +487,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -517,7 +517,7 @@
         "festival",
         "music"
       ],
-      "updated_at": "2026-04-28T07:48:10+00:00"
+      "updated_at": "2026-04-28T09:56:11+00:00"
     }
   ]
 }
