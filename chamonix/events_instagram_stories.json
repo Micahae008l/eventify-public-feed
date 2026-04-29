@@ -1,13 +1,85 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T17:58:08+00:00",
+    "generated_at": "2026-04-29T19:26:20+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 3,
+    "count": 5,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
   "events": [
+    {
+      "slug": "2026-04-29-concert-piano-john-nilsen-chamonix",
+      "title": "Concert piano: John Nilsen",
+      "description": "John Nilsen performs a piano recital featuring his compositions.",
+      "start_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "location": "Temple Protestant, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": "Free",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/john-nilsen-piano-concert",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "concert",
+        "john",
+        "music",
+        "nilsen",
+        "piano:",
+        "protestant",
+        "temple"
+      ],
+      "updated_at": "2026-04-29T19:26:20+00:00"
+    },
+    {
+      "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
+      "title": "Guided tour with a crystal hunter",
+      "description": "A guided tour focusing on crystal hunting.",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "start_time": "14:15",
+      "end_time": "16:15",
+      "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€ 8",
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_30_April_EN_1.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "cristaux",
+        "crystal",
+        "cultural",
+        "des",
+        "espace",
+        "guided",
+        "hunter",
+        "musée",
+        "tairraz",
+        "tour",
+        "with"
+      ],
+      "updated_at": "2026-04-29T19:26:20+00:00"
+    },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
       "title": "Open Mic in Servoz",
@@ -38,7 +110,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T17:58:08+00:00"
+      "updated_at": "2026-04-29T19:26:20+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -70,7 +142,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T17:58:08+00:00"
+      "updated_at": "2026-04-29T19:26:20+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -104,7 +176,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-29T17:58:08+00:00"
+      "updated_at": "2026-04-29T19:26:20+00:00"
     }
   ]
 }
