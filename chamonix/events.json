@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T19:26:19+00:00",
+    "generated_at": "2026-04-29T20:42:37+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 28,
+    "count": 33,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -40,7 +40,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -78,7 +78,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -110,7 +110,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -142,16 +142,50 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
+    },
+    {
+      "slug": "2026-05-03-freeride-day-chamonix",
+      "title": "Freeride Day",
+      "description": "Celebration marking the end of the ski season with various activities.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": "08:30",
+      "end_time": "17:00",
+      "location": "Domaine des Grands Montets, Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€10",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "day",
+        "des",
+        "domaine",
+        "freeride",
+        "grands",
+        "montets",
+        "outdoor"
+      ],
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-05-meet-with-gabrielle-de-tournemire-chamonix",
       "title": "Meet with Gabrielle de Tournemire",
-      "description": "Discussion with author Gabrielle de Tournemire about her debut novel, followed by a book signing.",
+      "description": "Discussion with author Gabrielle de Tournemire about her debut novel.",
       "start_date": "2026-05-05",
       "end_date": "2026-05-05",
       "start_time": "18:00",
-      "end_time": "20:00",
+      "end_time": null,
       "location": "Médiathèque de Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
@@ -160,11 +194,11 @@
         "en"
       ],
       "pricing": "free",
-      "ticket_price": "Free",
+      "ticket_price": null,
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/saison-litteraire-2026-rencontre-avec-gabrielle-de-tournemire",
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix",
@@ -175,7 +209,40 @@
         "tournemire",
         "with"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
+    },
+    {
+      "slug": "2026-05-08-commemoration-of-victory-day-chamonix",
+      "title": "Commemoration of Victory Day",
+      "description": "Official ceremonies commemorating Victory Day with speeches and receptions.",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "start_time": "09:30",
+      "end_time": null,
+      "location": "Various locations in Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "commemoration",
+        "cultural",
+        "day",
+        "locations",
+        "various",
+        "victory"
+      ],
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-12-opening-ceremony-cannes-film-festival-chamonix",
@@ -212,7 +279,7 @@
         "les",
         "opening"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-16-flower-market-and-small-flea-market-chamonix",
@@ -246,7 +313,7 @@
         "servoz",
         "small"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-trip-to-the-forest-chamonix",
@@ -281,7 +348,7 @@
         "the",
         "trip"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-22-curiosite-chamonix",
@@ -314,17 +381,53 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
-      "slug": "2026-05-23-mineral-treasures-the-raymond-thibault-collection-chamonix",
-      "title": "Mineral Treasures: The Raymond Thibault Collection",
-      "description": "Free self-guided tour of the museum and exhibition with activities for ages 6 and over.",
+      "slug": "2026-05-23-european-night-of-museums-chamonix",
+      "title": "European Night of Museums",
+      "description": "Free self-guided tours and special activities at various museums.",
       "start_date": "2026-05-23",
       "end_date": "2026-05-23",
       "start_time": "19:30",
       "end_time": "23:00",
       "location": "Musée des Cristaux - Espace Tairraz at Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "cristaux",
+        "cultural",
+        "des",
+        "espace",
+        "european",
+        "museums",
+        "musée",
+        "night",
+        "tairraz"
+      ],
+      "updated_at": "2026-04-29T20:42:37+00:00"
+    },
+    {
+      "slug": "2026-05-23-mineral-treasures-the-raymond-thibault-collection-chamonix",
+      "title": "Mineral Treasures: The Raymond Thibault Collection",
+      "description": "Free self-guided tour of the museum and exhibition with guided sessions.",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "start_time": "19:30",
+      "end_time": "23:00",
+      "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
       "city_slug": "chamonix",
       "city_display_name": "Chamonix-Mont-Blanc, France",
       "event_type": "exhibition",
@@ -336,7 +439,7 @@
       "requires_registration": false,
       "is_recurring": false,
       "recurrence_pattern": null,
-      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/exposition-tresor-mineral-la-collection-raymond-thibault",
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
       "instagram_post_url": null,
       "slug_search_tokens": [
         "chamonix",
@@ -353,7 +456,7 @@
         "thibault",
         "treasures:"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -386,7 +489,74 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
+    },
+    {
+      "slug": "2026-05-28-blood-donation-chamonix",
+      "title": "Blood Donation",
+      "description": "Blood donation event with online booking required.",
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "start_time": "12:00",
+      "end_time": "19:00",
+      "location": "Presbytère Saint-Michel, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "community",
+      "languages": [
+        "en"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": true,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "blood",
+        "chamonix",
+        "community",
+        "donation",
+        "presbytère",
+        "saint-michel"
+      ],
+      "updated_at": "2026-04-29T20:42:37+00:00"
+    },
+    {
+      "slug": "2026-05-31-associations-festival-mums-special-chamonix",
+      "title": "Associations Festival – Mums' Special",
+      "description": "A festival featuring local organizations, activities, and refreshments.",
+      "start_date": "2026-05-31",
+      "end_date": "2026-05-31",
+      "start_time": "10:00",
+      "end_time": "18:00",
+      "location": "Lac des Chavants, Les Houches",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "festival",
+      "languages": [
+        "en"
+      ],
+      "pricing": "free",
+      "ticket_price": null,
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "associations",
+        "chavants",
+        "des",
+        "festival",
+        "houches",
+        "lac",
+        "les",
+        "mums'",
+        "special"
+      ],
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -417,7 +587,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-21-fete-de-la-musique-chamonix",
@@ -452,7 +622,7 @@
         "rue",
         "venues"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -490,7 +660,7 @@
         "tourist",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-26-90-km-of-mont-blanc-chamonix",
@@ -522,7 +692,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-26-90km-du-mont-blanc-chamonix",
@@ -555,7 +725,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -587,7 +757,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -619,7 +789,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-mont-blanc-10km-chamonix",
@@ -651,7 +821,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
@@ -682,7 +852,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -716,7 +886,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-elite-presentation-and-autograph-session-chamonix",
@@ -752,7 +922,7 @@
         "session",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -785,7 +955,7 @@
         "star",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -818,7 +988,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -849,7 +1019,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -883,7 +1053,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2026-08-15-fete-des-guides-chamonix",
@@ -918,7 +1088,7 @@
         "lac",
         "town"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -952,7 +1122,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-29T19:26:19+00:00"
+      "updated_at": "2026-04-29T20:42:37+00:00"
     }
   ]
 }

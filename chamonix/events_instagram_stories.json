@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T19:26:20+00:00",
+    "generated_at": "2026-04-29T20:42:38+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 5,
+    "count": 6,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -40,7 +40,7 @@
         "protestant",
         "temple"
       ],
-      "updated_at": "2026-04-29T19:26:20+00:00"
+      "updated_at": "2026-04-29T20:42:38+00:00"
     },
     {
       "slug": "2026-04-30-guided-tour-with-a-crystal-hunter-chamonix",
@@ -78,7 +78,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-29T19:26:20+00:00"
+      "updated_at": "2026-04-29T20:42:38+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -110,7 +110,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T19:26:20+00:00"
+      "updated_at": "2026-04-29T20:42:38+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -142,7 +142,41 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T19:26:20+00:00"
+      "updated_at": "2026-04-29T20:42:38+00:00"
+    },
+    {
+      "slug": "2026-05-03-freeride-day-chamonix",
+      "title": "Freeride Day",
+      "description": "Celebration marking the end of the ski season with various activities.",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "start_time": "08:30",
+      "end_time": "17:00",
+      "location": "Domaine des Grands Montets, Argentière",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "outdoor",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€10",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/sites/default/files/media/brochures/from_1st_to_31st_may_EN_PRINT.pdf",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "argentière",
+        "day",
+        "des",
+        "domaine",
+        "freeride",
+        "grands",
+        "montets",
+        "outdoor"
+      ],
+      "updated_at": "2026-04-29T20:42:38+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -176,7 +210,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-29T19:26:20+00:00"
+      "updated_at": "2026-04-29T20:42:38+00:00"
     }
   ]
 }
