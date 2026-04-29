@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T06:04:28+00:00",
+    "generated_at": "2026-04-29T07:41:58+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 17,
@@ -38,7 +38,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -70,7 +70,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -106,7 +106,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -139,7 +139,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -172,7 +172,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -203,7 +203,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -241,7 +241,7 @@
         "tourist",
         "triangle"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -273,7 +273,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -305,7 +305,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-27-mont-blanc-10km-chamonix",
@@ -337,7 +337,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
@@ -368,7 +368,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -402,7 +402,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -435,7 +435,7 @@
         "star",
         "triangle"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -468,7 +468,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -499,7 +499,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -530,7 +530,7 @@
         "festival",
         "valley"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -564,7 +564,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-29T06:04:28+00:00"
+      "updated_at": "2026-04-29T07:41:58+00:00"
     }
   ]
 }
