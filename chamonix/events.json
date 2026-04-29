@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T10:06:50+00:00",
+    "generated_at": "2026-04-29T13:33:23+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 18,
+    "count": 19,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -38,7 +38,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -70,7 +70,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
@@ -109,7 +109,40 @@
         "route",
         "the"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
+    },
+    {
+      "slug": "2026-05-22-curiosite-chamonix",
+      "title": "Curiosité",
+      "description": "A cultural event featuring various performances.",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "start_time": "20:30",
+      "end_time": null,
+      "location": "Espace Michel Croz - EMC2, Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "cultural",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "€24",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://billetterie-chamonix.mapado.com/en/event/511967-curiosite",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix-mont-blanc",
+        "croz",
+        "cultural",
+        "curiosité",
+        "emc2",
+        "espace",
+        "michel"
+      ],
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -145,7 +178,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-05-27-spectacle-tres-jeune-public-e-mouvoir-chamonix",
@@ -178,7 +211,7 @@
         "spectacle",
         "très"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -195,7 +228,7 @@
       "languages": [
         "en"
       ],
-      "pricing": "unknown",
+      "pricing": "paid",
       "ticket_price": null,
       "requires_registration": null,
       "is_recurring": false,
@@ -211,7 +244,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -242,7 +275,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -280,7 +313,7 @@
         "tourist",
         "triangle"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -312,7 +345,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -344,7 +377,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-27-mont-blanc-10km-chamonix",
@@ -376,7 +409,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
@@ -407,7 +440,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -441,7 +474,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -474,7 +507,7 @@
         "star",
         "triangle"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -507,7 +540,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -538,7 +571,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -569,7 +602,7 @@
         "festival",
         "valley"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -603,7 +636,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-29T10:06:50+00:00"
+      "updated_at": "2026-04-29T13:33:23+00:00"
     }
   ]
 }
