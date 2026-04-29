@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T07:41:59+00:00",
+    "generated_at": "2026-04-29T09:14:05+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 4,
+    "count": 5,
     "schema_version": "1.0.0",
     "export_filter": "instagram_story"
   },
@@ -38,7 +38,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-29T07:41:59+00:00"
+      "updated_at": "2026-04-29T09:14:05+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -70,7 +70,46 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-29T07:41:59+00:00"
+      "updated_at": "2026-04-29T09:14:05+00:00"
+    },
+    {
+      "slug": "2026-05-06-farmer-s-market-les-houches-chamonix",
+      "title": "Farmer's market Les Houches",
+      "description": "Local produce sold at this weekly market - fresh food direct from farm to table",
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "start_time": "15:00",
+      "end_time": "18:30",
+      "location": "The Chibon Bread Farm, 427 route du pont, Les Houches, 74310 Haute-Savoie, FR",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "market",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "unknown",
+      "ticket_price": null,
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://www.seechamonix.com/events/",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "427",
+        "74310",
+        "bread",
+        "chibon",
+        "farm",
+        "farmer's",
+        "haute-savoie",
+        "houches",
+        "les",
+        "market",
+        "pont",
+        "route",
+        "the"
+      ],
+      "updated_at": "2026-04-29T09:14:05+00:00"
     },
     {
       "slug": "2026-05-22-emc2-theatre-cultural-season-chamonix",
@@ -106,7 +145,7 @@
         "season",
         "theatre"
       ],
-      "updated_at": "2026-04-29T07:41:59+00:00"
+      "updated_at": "2026-04-29T09:14:05+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -137,7 +176,7 @@
         "festival",
         "valley"
       ],
-      "updated_at": "2026-04-29T07:41:59+00:00"
+      "updated_at": "2026-04-29T09:14:05+00:00"
     }
   ]
 }
