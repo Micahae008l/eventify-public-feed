@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T06:09:38+00:00",
+    "generated_at": "2026-04-30T07:46:43+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
     "count": 5,
@@ -44,7 +44,7 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-30T06:09:38+00:00"
+      "updated_at": "2026-04-30T07:46:43+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -76,7 +76,7 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-30T06:09:38+00:00"
+      "updated_at": "2026-04-30T07:46:43+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -108,7 +108,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-30T06:09:38+00:00"
+      "updated_at": "2026-04-30T07:46:43+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -142,7 +142,7 @@
         "montets",
         "outdoor"
       ],
-      "updated_at": "2026-04-30T06:09:38+00:00"
+      "updated_at": "2026-04-30T07:46:43+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -176,7 +176,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-30T06:09:38+00:00"
+      "updated_at": "2026-04-30T07:46:43+00:00"
     }
   ]
 }
