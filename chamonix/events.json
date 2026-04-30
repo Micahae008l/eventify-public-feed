@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T09:52:06+00:00",
+    "generated_at": "2026-04-30T10:22:31+00:00",
     "city_slug": "chamonix",
     "city_display_name": "Chamonix-Mont-Blanc, France",
-    "count": 32,
+    "count": 34,
     "schema_version": "1.0.0",
     "export_filter": null
   },
@@ -44,7 +44,40 @@
         "tour",
         "with"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
+    },
+    {
+      "slug": "2026-04-30-a-cappella-concert-du-ch-ur-des-chambelles-chamonix",
+      "title": "A Cappella - Concert du chœur des Chambelles",
+      "description": "A concert performed by the choir des Chambelles.",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "start_time": "19:00",
+      "end_time": "21:00",
+      "location": "Chamonix-Mont-Blanc",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "music",
+      "languages": [
+        "fr"
+      ],
+      "pricing": "Free of charge",
+      "ticket_price": "Free",
+      "requires_registration": null,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/a-cappella-concert-du-choeur-des-chambelles",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "cappella",
+        "chambelles",
+        "chamonix-mont-blanc",
+        "chœur",
+        "concert",
+        "des",
+        "music"
+      ],
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-01-open-mic-in-servoz-chamonix",
@@ -76,7 +109,43 @@
         "open",
         "servoz"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
+    },
+    {
+      "slug": "2026-05-01-exhibition-mineral-treasures-chamonix",
+      "title": "Exhibition: Mineral Treasures",
+      "description": "Exhibition showcasing the Raymond Thibault Collection of minerals.",
+      "start_date": "2026-05-01",
+      "end_date": "2026-12-31",
+      "start_time": "14:00",
+      "end_time": "18:00",
+      "location": "Musée des Cristaux - Espace Tairraz, Chamonix",
+      "city_slug": "chamonix",
+      "city_display_name": "Chamonix-Mont-Blanc, France",
+      "event_type": "exhibition",
+      "languages": [
+        "en"
+      ],
+      "pricing": "paid",
+      "ticket_price": "museum admission fee",
+      "requires_registration": false,
+      "is_recurring": false,
+      "recurrence_pattern": null,
+      "official_source_url": "https://en.chamonix.com/animations-et-evenements-chamonix-et-argentiere/exposition-tresor-mineral-la-collection-raymond-thibault",
+      "instagram_post_url": null,
+      "slug_search_tokens": [
+        "chamonix",
+        "cristaux",
+        "des",
+        "espace",
+        "exhibition",
+        "exhibition:",
+        "mineral",
+        "musée",
+        "tairraz",
+        "treasures"
+      ],
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-03-le-freeride-day-chamonix",
@@ -108,7 +177,7 @@
         "montets",
         "sport"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-03-freeride-day-chamonix",
@@ -142,7 +211,7 @@
         "montets",
         "outdoor"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-05-meet-with-gabrielle-de-tournemire-chamonix",
@@ -175,7 +244,7 @@
         "tournemire",
         "with"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-08-commemoration-of-victory-day-chamonix",
@@ -208,7 +277,7 @@
         "various",
         "victory"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-12-opening-ceremony-cannes-film-festival-chamonix",
@@ -245,7 +314,7 @@
         "les",
         "opening"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-16-flower-market-and-small-flea-market-chamonix",
@@ -279,7 +348,7 @@
         "servoz",
         "small"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-20-nature-outing-a-trip-to-the-forest-chamonix",
@@ -314,7 +383,7 @@
         "the",
         "trip"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-22-curiosite-chamonix",
@@ -347,7 +416,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-23-european-night-of-museums-chamonix",
@@ -383,7 +452,7 @@
         "night",
         "tairraz"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-23-mineral-treasures-the-raymond-thibault-collection-chamonix",
@@ -422,7 +491,7 @@
         "thibault",
         "treasures:"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-27-e-mouvoir-chamonix",
@@ -455,7 +524,7 @@
         "espace",
         "michel"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-28-blood-donation-chamonix",
@@ -487,7 +556,7 @@
         "presbytère",
         "saint-michel"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-05-31-associations-festival-mums-special-chamonix",
@@ -522,7 +591,7 @@
         "mums'",
         "special"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-10-chamonix-film-festival-chamonix",
@@ -553,7 +622,7 @@
         "festival",
         "film"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-21-fete-de-la-musique-chamonix",
@@ -588,7 +657,7 @@
         "rue",
         "venues"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-25-marathon-du-mont-blanc-chamonix",
@@ -626,7 +695,7 @@
         "tourist",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-26-90-km-of-mont-blanc-chamonix",
@@ -658,7 +727,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-26-90km-du-mont-blanc-chamonix",
@@ -691,7 +760,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-26-km-vertical-chamonix",
@@ -723,7 +792,7 @@
         "triangle",
         "vertical"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-23km-mont-blanc-chamonix",
@@ -755,7 +824,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-mont-blanc-10km-chamonix",
@@ -787,7 +856,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-mini-cross-chamonix",
@@ -818,7 +887,7 @@
         "paragliding",
         "sport"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-the-young-race-chamonix",
@@ -852,7 +921,7 @@
         "triangle",
         "young"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-elite-presentation-and-autograph-session-chamonix",
@@ -888,7 +957,7 @@
         "session",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-27-star-duo-chamonix",
@@ -921,7 +990,7 @@
         "star",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-06-28-mont-blanc-42km-chamonix",
@@ -954,7 +1023,7 @@
         "sport",
         "triangle"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-07-10-coupe-du-monde-d-escalade-chamonix",
@@ -985,7 +1054,7 @@
         "monde",
         "sport"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-07-20-cosmojazz-festival-chamonix",
@@ -1019,7 +1088,7 @@
         "parc",
         "scènes"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2026-08-15-fete-des-guides-chamonix",
@@ -1054,7 +1123,7 @@
         "lac",
         "town"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     },
     {
       "slug": "2027-04-01-concert-dub-inc-chamonix",
@@ -1088,7 +1157,7 @@
         "music",
         "olca"
       ],
-      "updated_at": "2026-04-30T09:52:06+00:00"
+      "updated_at": "2026-04-30T10:22:31+00:00"
     }
   ]
 }
